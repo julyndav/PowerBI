@@ -56,3 +56,34 @@ Create an exploratory dashboard that helps analyze traveler behavior and operati
 <li>Highlights the number of stations covered, with a focus on the top 3 departure and arrival stations, their on-time performance, and revenue.</li>
 <li>KPIs and visuals to provide a summary of other key metrics.</li>
 </ul>
+<p></p>
+
+![MainDB](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/UKRail%20Img1.png)
+<br></br>
+
+### Route Overview:
+<ul>
+<li>Showcases ticket classes, highlight the main reasons for delays and refunds totals per ticket class.</li>
+<li>Features an interactive route map and a general timeline to visualize passenger patterns over a 24-hour period.</li>
+</ul>
+<p></p>
+
+![RouteOv](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Route_Overview.png)
+<br></br>
+
+
+### Departures:
+
+Visualizations exclude canceled trips to provide a clearer picture of actual departures.
+Identifies peak travel times: 6-8am and 4-6pm, influenced by commuters and possible students.
+Breaks down ticketing by station.
+Uses tooltips to display additional information for a more detailed coverage without cluttering the visuals.
+
+
+### Arrivals:
+
+Similar layout to Departures but focuses on average delay times and performance issues.
+Examines trip delays, on-time percentages, and cancellations.
+Analyzes station-specific delays to highlight where performance improvements can be made.
+
+
