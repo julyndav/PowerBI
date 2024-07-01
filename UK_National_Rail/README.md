@@ -22,7 +22,7 @@ Create an exploratory dashboard that helps analyze traveler behavior and operati
 ### Reviewing the Data:
 <ul>
 <li>Reviewed the provided data consisting of two CSV tables: one with working data and another with variable information.</li>
-<li>Imported the working data into Power BI for initial data cleaning, formatting, and manipulation.</li>
+<li>Loaded the working data into Power BI for initial data cleaning, formatting, and manipulation which was minimal.</li>
 </ul>  
 <p>
   
@@ -37,7 +37,7 @@ Create an exploratory dashboard that helps analyze traveler behavior and operati
 ### Dashboard Concept:
 <ul>
 <li>Outlined key metrics and potential visuals, dividing the dashboard into four main sections based on the initial requirements.</li>
-<li>Designed the overall aesthetic and layout to ensure a user-friendly interface. The background and icons were designed in PowerPoint.</li>
+<li>Designed the overall aesthetic and layout to ensure a user-friendly interface. The background and icons were designed and exported from PowerPoint.</li>
 </ul>
 <p></p>
 
@@ -59,15 +59,17 @@ Create an exploratory dashboard that helps analyze traveler behavior and operati
 
 ![MainDB](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/UKRail%20Img1.png)
 
-### General Insights:  
-
+### General Insights: 
+Payments: We can see that roughly 60% of ticket sales are purchased online which is in line with 60% (19K) tickets have been purchased using credit cards. 
 
 <br></br>
 
 ### Route Overview:
 <ul>
-<li>Showcases ticket classes, highlight the main reasons for delays and refunds totals per ticket class.</li>
+<li>Showcases ticket classes, highlights the main reasons for delays and refunds totals per ticket class.</li>
 <li>Features an interactive route map and a general timeline to visualize passenger patterns over a 24-hour period.</li>
+<li>There are separate dashboards for Arrival and Departure information. These are access via the buttons on the main route page.</li>
+<li>If one chooses, there is a Passenger Dashboard which displays passenger information anonomously.</li>  
 </ul>
 <p></p>
 
