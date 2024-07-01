@@ -4,18 +4,17 @@ This contains all PowerBI projects along with their associated files.
 <br>
 
 ## Project List:
-| Project | Task | Link |
-| --- | --- | --- |
-| UniqueID| Unique dog bite case identifier |
-| DateofBite| Date bite took place |
-| Species | Type of animal |
-| Breed | Breed of dog |
-| Age | Age of dog at time of bite |
-| Gender | Gender of dog |
-| SpayNeuter | Whether reproductive organs have been removed |
-| Borough | New York City neighborhood/borough that bite took place in |
-| ZipCode |Zip code bite took place in |
+| Project | Task |
+| --- | --- | 
+| [Liliput HR](https://github.com/julyndav/PowerBI/tree/main/Liliput%20HR) | Employee satisfaction, retenion and recruitment analysis |  
+| [Maven CRM](https://github.com/julyndav/PowerBI/tree/main/Maven%20CRM)| Interactive dashboard for sales managers to track their team's quarterly performance |
+| NYC Dog Bites | Type of animal |
+| Plantphalia Sales Analysis | Breed of dog |
+| UK National Rail | Age of dog at time of bite |
 
-## Table of Contents:
-[Jupyter Notebook](https://github.com/julyndav/Business_Analytics/blob/main/BA_Yandex-Afisha.ipynb)<br>
-[Data Visualizations](https://github.com/julyndav/Business_Analytics/tree/main/cohort_images)
+<br></br>
+## Project Notes:
+<ul>
+<li> Maven CRM and UK National Rail were data challenges conducted by Maven Analytics.</li>
+<li>The other projects were personal development projects to imporove PowerBI, DAX and Power Query skills.</li>
+</ul>
