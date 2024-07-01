@@ -3,7 +3,6 @@
 
 ## Table of Contents:
 [Interactive PowerBI Dashboard](https://mavenanalytics.io/project/15152)<br>
-[Data Set](https://github.com/julyndav/Business_Analytics/tree/main/cohort_images)
 <br></br>
 ## About this project:
 
@@ -59,6 +58,10 @@ Create an exploratory dashboard that helps analyze traveler behavior and operati
 <p></p>
 
 ![MainDB](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/UKRail%20Img1.png)
+
+### General Insights:  
+
+
 <br></br>
 
 ### Route Overview:
@@ -73,17 +76,50 @@ Create an exploratory dashboard that helps analyze traveler behavior and operati
 
 
 ### Departures:
+<ul>
+<li>Visualizations exclude canceled trips to provide a clearer picture of actual departures.</li>
+<li>Identifies peak travel times: 6-8am and 4-6pm, influenced by commuters and possible students.</li>
+<li>Breaks down ticketing by station.</li>
+<li>Uses tooltips to display additional information for a more detailed coverage without cluttering the visuals.</li>
+</ul>
+<p></p>
 
-Visualizations exclude canceled trips to provide a clearer picture of actual departures.
-Identifies peak travel times: 6-8am and 4-6pm, influenced by commuters and possible students.
-Breaks down ticketing by station.
-Uses tooltips to display additional information for a more detailed coverage without cluttering the visuals.
+![RouteOv](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Departures.png)
+<br></br>
 
 
 ### Arrivals:
+<ul>
+<li>Similar layout to Departures but focuses on average delay times and performance issues.</li>
+<li>Examines trip delays, on-time percentages, and cancellations.</li>
+<li>Analyzes station-specific delays to highlight where performance improvements can be made.</li>
+</ul>
+<p></p>
 
-Similar layout to Departures but focuses on average delay times and performance issues.
-Examines trip delays, on-time percentages, and cancellations.
-Analyzes station-specific delays to highlight where performance improvements can be made.
+![RouteOv](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Arrivals.png)
+<br></br>
 
 
+### Peak Travel Times:
+<ul>
+<li>Uses DAX calculations to identify peak travel hours and group them into categories.</li>
+<li>Includes a heatmap to visualize passenger patterns and trends over different hours of the day.</li>
+<li>Addressed issues with sorting by creating a separate table for 'DayOfWeek' and DAX to ensure correct hour of the day order.</li>
+</ul>
+<p></p>
+
+![RouteOv](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Time_Perf.png)
+<br></br>
+
+
+### Revenue:
+
+Summarizes monthly revenue amounts. Incorporated custom tooltip that breaks down the months into days of the week for that month.
+Highlights the difference between gross and net revenue amounts.
+Provides a detailed revenue breakdown by ticket type and class to identify key revenue drivers.
+
+![RouteOv](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Revenue_DB.png)
+<br></br>
+
+
+![Passengers](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Passenger_DB.png)
