@@ -2,71 +2,57 @@
 <br>
 
 ## Table of Contents:
-[Jupyter Notebook](https://github.com/julyndav/Business_Analytics/blob/main/BA_Yandex-Afisha.ipynb)<br>
-[Data Visualizations](https://github.com/julyndav/Business_Analytics/tree/main/cohort_images)
-
-## Required Project Libraries:
-| Library |Purpose |
-| --- | --- |
-| Pandas | Main library for working with data |
-| Numpy | Used for numerical operations on large quantities of data |
-| Seaborn | Python visualization library based on matplotlib |
-| Matplotlib | Python visualization library |
-<br>
-<br>
-
-## Project overview:
-
-This project will focus on using Cohort Analysis and Data Visualizations to explore the analystical side of business. This will incorporate data cleaning, data manipulation, exploratory analysis, cohort analysis and visualizations. Customer metrics were plotted and the finding interpreted along with providing insights and conclustions to back up reccomendations to marketing, sales and excutives on which marketing sources are worth futher investment and which ones should be scrapped. 
-
-
-## Description of the data
-<b>The visits table:</b><li>
-Uid — user's unique identifier<li>
-Device — user's device<li>
-Start Ts — session start date and time<li>
-End Ts — session end date and time<li>
-Source Id — identifier of the ad source the user came from
-<br>
-<b>The orders table (data on orders):</b><li>
-Uid — unique identifier of the user making an order<li>
-Buy Ts — order date and time<li>
-Revenue — Yandex.Afisha's revenue from the order<br>
-
-<b>The costs table (data on marketing expenses):</b><li>
-source_id — ad source identifier<li>
-dt — date<li>
-costs — expenses on this ad source on this day
-
-## Analysis Steps:
-| Step |Description |
-| --- | --- |
-| 1 | Create project description |
-| 2 | Import libraries |
-| 3 | Upload and analyize data |
-| 4 | Data cleaning and preparation |
-| 5 | Customer segmentation and analysis |
-| 6 | Determining Customer Retention Rate |
-| 7 | Sales Analysis |
-| 8 | Cohort Analysis including determining ROI |
-| 9 | Project Conclusion(s) |
-
+[Interactive PowerBI Dashboard](https://mavenanalytics.io/project/15152)<br>
+[Data Set](https://github.com/julyndav/Business_Analytics/tree/main/cohort_images)
 <br></br>
+## About this project:
 
-## Brief Analysis Overview:
+### Project Rundown
+#### Objective:
+Create an exploratory dashboard that helps analyze traveler behavior and operating performance.
+<ul>
+<li>Identify the most popular train routes</li>
+<li>Determine peak travel times</li>
+<li>Analyze revenue from different ticket types & ticket classes</li>
+<li>Diagnose on-time performance and contributing factors</li>
+</ul>
+<br>
 
-From using cohort analysis, here a few snapshots.  <p>
-![Orders over time](https://github.com/julyndav/Business_Analytics/blob/main/cohort_images/order%20over%20time.png)
+
+## Analysis Process:
+### Reviewing the Data:
+<ul>
+<li>Reviewed the provided data consisting of two CSV tables: one with working data and another with variable information.</li>
+<li>Imported the working data into Power BI for initial data cleaning, formatting, and manipulation.</li>
+</ul>  
 <p>
+  
+### Processing Data:
+<ul>
+<li>Formatted currency and date columns.</li>
+<li>Reviewed each column’s variables, consolidating the 'Reason for Delay' column to unify various delay reasons.</li>
+<li>Ensured data consistency and accuracy through cleaning and validation processes.</li>
+</ul>
 <p></p>
-To see how customer purchases have played out over time, lets take a peek at the LTV (Life Time Value) of the customer base:
+  
+### Dashboard Concept:
+<ul>
+<li>Outlined key metrics and potential visuals, dividing the dashboard into four main sections based on the initial requirements.</li>
+<li>Designed the overall aesthetic and layout to ensure a user-friendly interface. The background and icons were designed in PowerPoint.</li>
+</ul>
+<p></p>
 
-![Life Time Value](https://github.com/julyndav/Business_Analytics/blob/main/cohort_images/LTV.png)
+### Data Analysis and Exploration:
+<ul>
+<li>Created a ‘Measures’ table to store DAX calculations for data analysis.</li>
+<li>Utilized various sorting/grouping DAX expressions for more detailed graphics.</li>
+</ul>
+<br>
 
-To end the project, a through conclusion was given with reccommendations. This was expanded on in the above Tableau Dashboard. 
-<br></br>
-
-## Brief Project Conclusion:
-#### <i>Full conclusion within the project notebook</i>
-*Overall Impression(s):Users get to the website and atleast make one purchase pretty much immediately. The ads are bringing in relevant users that want the product, but most users do not make multiple orders/visits and orders are small. Usally movie goers stay up to date on the latest and upcoming movies; it makes sense that their purchases would continue. Are customers not happy after their intial purchase?
-
+## Dashboard
+### Overview Page:
+<ul>
+<li>Displays general ticket information: quantity, purchase methods, monthly ticket totals, and average price.</li>
+<li>Highlights the number of stations covered, with a focus on the top 3 departure and arrival stations, their on-time performance, and revenue.</li>
+<li>KPIs and visuals to provide a summary of other key metrics.</li>
+</ul>
