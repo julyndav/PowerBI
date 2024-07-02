@@ -92,7 +92,7 @@ Focusing on maintaining or improving punctuality at top arrival stations (85% on
 <li>Visualizations exclude canceled trips to provide a clearer picture of actual departures.</li>
 <li>Identifies peak travel times: 6-8am and 4-6pm, influenced by commuters and possible students.</li>
 <li>Breaks down ticketing by station.</li>
-<li>Uses tooltips to display additional information for a more detailed coverage without cluttering the visuals.</li>
+<li>Customized tooltip to display additional information.</li>
 </ul>
 <p></p>
 
@@ -105,6 +105,7 @@ Focusing on maintaining or improving punctuality at top arrival stations (85% on
 <li>Similar layout to Departures but focuses on average delay times and performance issues.</li>
 <li>Examines trip delays, on-time percentages, and cancellations.</li>
 <li>Analyzes station-specific delays to highlight where performance improvements can be made.</li>
+<li>Customized tooltip to display additional information.</li>  
 </ul>
 <p></p>
 
