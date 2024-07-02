@@ -60,7 +60,17 @@ Create an exploratory dashboard that helps analyze traveler behavior and operati
 ![MainDB](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/UKRail%20Img1.png)
 
 ### General Insights: 
-Payments: We can see that roughly 60% of ticket sales are purchased online which is in line with 60% (19K) tickets have been purchased using credit cards. 
+<b>Enhancing Online Sales Channel:</b>
+
+With 59% of purchases being made online, there is a clear trend towards digital transactions. Investing in improving the online purchasing experience, such as optimizing the website or mobile app for easier navigation and quicker transactions, could lead to increased sales and revenue.
+
+<b>Utilization of Discount Railcard:</b>
+
+Despite the discount railcard availability, 66% of passengers do not use it. Identifying reasons for low adoption (e.g., awareness, perceived value, eligibility) and implementing targeted marketing or adjustments could boost usage, increasing ticket sales and revenue.
+
+<b>Operational Efficiency Based on Punctuality:</b>
+
+Focusing on maintaining or improving punctuality at top arrival stations (85% on-time) and departure stations (75-80% on-time) can boost customer satisfaction, repeat business, and operational efficiency. Addressing factors causing delays at underperforming stations can optimize operations and reduce associated costs.
 
 <br></br>
 
