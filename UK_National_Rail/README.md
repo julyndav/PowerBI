@@ -97,9 +97,18 @@ Focusing on maintaining or improving punctuality at top arrival stations (85% on
 <p></p>
 
 ![RouteOv](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Departures.png)
+### General Insights: 
+<b>Increase Departure Stations:</b>
+The distance between Edinburgh and the nearest departure station in Leeds represents a substantial area. Considering budget and geographical coverage, 
+strategically increasing the number of stations along this route has significant profit potential. By enhancing accessibility and service coverage in 
+this corridor, it can effectively capture untapped market demand and optimize revenue generation.
 <br></br>
 
-![Depart_TT](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Dept_TT.png)
+<figure>
+  <img src="https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Dept_TT.png" alt="Departure Timetable">
+  <figcaption>Departure Tooltip showing top metrics per selected station.  Values shown are default.</figcaption>
+</figure>
+<br></br>
 <br></br>
 
 ### Arrivals:
@@ -107,11 +116,24 @@ Focusing on maintaining or improving punctuality at top arrival stations (85% on
 <li>Similar layout to Departures but focuses on average delay times and performance issues.</li>
 <li>Examines trip delays, on-time percentages, and cancellations.</li>
 <li>Analyzes station-specific delays to highlight where performance improvements can be made.</li>
-<li>Customized tooltip to display additional information.</li>  
+<li>Only arrivals had data on delays.</li>
 </ul>
 <p></p>
 
 ![RouteOv](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Arrivals.png)
+### General Insights:
+
+<b>Increase Arrival Stations:</b>
+Same with Departures, there are substantial areas that are vacant. This significantly increases commuter time by bus or other means to get to/from a station. 
+Costs involved in laying new rail is substantial so thorough research would need to be conducted in the areas to see if rail expansion is even viable.
+Resident surveys, need, land surveys and more are all things to take into account during research.
+
+<b>Delay Factors:</b>
+Delays in railway operations can be categorized into two primary factors: weather-related delays, which are unpredictable despite forecasts, and operational delays
+typically caused by technical malfunctions or staffing issues. Understanding these delays requires a deeper analysis to ascertain their root causes, severity levels, 
+and the condition of equipment. This data-driven approach will enable us to implement targeted improvements, optimize operational efficiency, and enhance customer 
+satisfaction by minimizing avoidable disruptions.
+<br></br>
 <br></br>
 
 
