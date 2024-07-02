@@ -13,6 +13,6 @@ This contains all PowerBI projects along with their associated files.
 <br></br>
 ## Project Notes:
 <ul>
-<li> Maven CRM and UK National Rail were data challenges conducted by Maven Analytics.</li>
+<li> UK National Rail was a data challenges conducted by Maven Analytics.</li>
 <li>The other projects were personal development projects to imporove PowerBI, DAX and Power Query skills.</li>
 </ul>
