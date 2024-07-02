@@ -99,6 +99,8 @@ Focusing on maintaining or improving punctuality at top arrival stations (85% on
 ![RouteOv](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Departures.png)
 <br></br>
 
+![Depart_TT](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Dept_TT.png)
+<br></br>
 
 ### Arrivals:
 <ul>
