@@ -109,7 +109,6 @@ this corridor, it can effectively capture untapped market demand and optimize re
   <figcaption>Departure Tooltip showing top metrics per selected station.  Values shown are default.</figcaption>
 </figure>
 <br></br>
-<br></br>
 
 ### Arrivals:
 <ul>
@@ -123,19 +122,21 @@ this corridor, it can effectively capture untapped market demand and optimize re
 ![RouteOv](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Arrivals.png)
 ### General Insights:
 
-<b>Increase Arrival Stations:</b>
+<b>Arrival Stations:</b>
 Same with Departures, there are substantial areas that are vacant. This significantly increases commuter time by bus or other means to get to/from a station. 
 Costs involved in laying new rail is substantial so thorough research would need to be conducted in the areas to see if rail expansion is even viable.
 Resident surveys, need, land surveys and more are all things to take into account during research.
 
 <b>Delay Factors:</b>
-Delays in railway operations can be categorized into two primary factors: weather-related delays, which are unpredictable despite forecasts, and operational delays
-typically caused by technical malfunctions or staffing issues. Understanding these delays requires a deeper analysis to ascertain their root causes, severity levels, 
-and the condition of equipment. This data-driven approach will enable us to implement targeted improvements, optimize operational efficiency, and enhance customer 
-satisfaction by minimizing avoidable disruptions.
+Delays in railway operations can be categorized into two primary factors: weather-related delays, which are unpredictable despite forecasts, and operational delays typically caused by technical malfunctions or staffing issues. Understanding these delays requires a deeper analysis to ascertain their root causes, severity levels, and the condition of equipment. This data-driven approach will enable us to implement targeted improvements, optimize operational efficiency, and enhance customer satisfaction by minimizing avoidable disruptions.
 <br></br>
-<br></br>
+### Route Recommendations:
+<b>Conduct Feasibility Studies:</b>
+Perform thorough research including resident surveys, land surveys, and market demand analysis to determine the viability of adding new departure and arrival stations along the route between Edinburgh and Leeds.
 
+<b>Strategic Expansion:</b>
+Focus on areas with substantial population density and inadequate access to current stations. Prioritize locations where improved accessibility could capture untapped market demand. Assess the costs involved in new station development versus the potential revenue increase from capturing new commuters. Ensure the expansion aligns with the budget and long-term strategic goals.
+<br></br>
 
 ### Peak Travel Times:
 <ul>
