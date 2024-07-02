@@ -8,9 +8,9 @@ This contains all PowerBI projects along with their associated files.
 | --- | --- | 
 | [Liliput HR](https://github.com/julyndav/PowerBI/tree/main/Liliput%20HR) | Employee satisfaction, retenion and recruitment analysis |  
 | [Maven CRM](https://github.com/julyndav/PowerBI/tree/main/Maven%20CRM)| Interactive dashboard for sales managers to track their team's quarterly performance |
-| NYC Dog Bites | Type of animal |
-| Plantphalia Sales Analysis | Breed of dog |
-| UK National Rail | Age of dog at time of bite |
+| NYC Dog Bites | Exploratory analysis of dog bite data for NYC's main boroughs |
+| Plantphalia Sales Analysis | Sales trend dashboard |
+| UK National Rail | Maven Analytics Data Challenge |
 
 <br></br>
 ## Project Notes:
