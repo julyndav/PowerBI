@@ -47,13 +47,8 @@ create an exploratory dashboard that will:
 <li>Designed the overall aesthetic and layout to ensure a user-friendly interface. The background and icons were designed and exported from PowerPoint.</li>
 </ul>
 <p></p>
-
-### Data Analysis and Exploration:
-<ul>
-<li>Created a ‘Measures’ table to store DAX calculations for data analysis.</li>
-<li>Utilized various sorting/grouping DAX expressions for more detailed graphics.</li>
-</ul>
 <br>
+
 
 
 # Dashboard
@@ -67,7 +62,7 @@ create an exploratory dashboard that will:
 
 ![MainDB](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/UKRail%20Img1.png)
 
-### General Insights: 
+### Overview Insights: 
 <b>Online Sales:</b>
 
 With 59% of purchases done online, there is a clear trend towards digital transactions. Contactless and debit card usage could be from in station purchases. 
@@ -105,7 +100,7 @@ Focusing on maintaining or improving punctuality at top arrival stations (averag
 <p></p>
 
 ![RouteOv](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Departures.png)
-### General Insights: 
+### Departure Station Insights: 
 <b>Departure Stations:</b>
 The distance between Edinburgh and the nearest departure station in Leeds represents a substantial area for potentially increasing the number of stations along this route has significant profit potential. By enhancing accessibility and service coverage in this corridor, it can effectively capture untapped market demand and optimize revenue generation.
 <br></br>
@@ -126,7 +121,7 @@ The distance between Edinburgh and the nearest departure station in Leeds repres
 <p></p>
 
 ![RouteOv](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Arrivals.png)
-### General Insights:
+### Arrival Station Insights:
 
 <b>Arrival Stations:</b>
 Same with Departures, there are substantial areas that are vacant. This significantly increases commuter time by bus or other means to get to/from a station. 
@@ -136,26 +131,33 @@ Resident surveys, need, land surveys and more are all things to take into accoun
 <b>Delay Factors:</b>
 Delays in railway operations can be categorized into two primary factors: weather-related delays, which are unpredictable despite forecasts, and operational delays typically caused by technical malfunctions or staffing issues. Understanding these delays requires a deeper analysis to ascertain their root causes, severity levels, and the condition of equipment. This data-driven approach will enable targeted improvements to optimize efficiency, and enhance customer satisfaction by minimizing disruptions.
 <br></br>
-### Route Recommendations:
-<b>Conduct Feasibility Studies:</b>
-Perform thorough research including resident surveys, land surveys, and market demand study to determine the viability of adding new departure and arrival stations along the route between Edinburgh and Leeds.
 
-<b>Strategic Expansion:</b>
-Focus on areas with substantial population density, yet no adequate access to current the stations. Prioritize locations where improved accessibility could capture untapped market demand. Research the costs involved in new station development versus the potential revenue increase from capturing new commuters. Ensure the expansion aligns with the budget and long-term strategic goals.
+### Overall Route Recommendations:
+<b>Station Expansion Strategy:</b>
+Conduct feasibility studies to identify optimal locations for new departure and arrival stations between Edinburgh and Leeds. Studies to include but not limited to, resident surveys, land surveys, and market demand research. Focus on areas with significant population density but lacking sufficient station access. This will capture untapped market demand. Evaluate development costs against potential revenue increases to ensure budget and long-term strategic objectives.
 <br></br>
 <br></br>
 
 ### Peak Travel Times:
 <ul>
-<li>Uses DAX calculations to identify peak travel hours and group them into categories.</li>
+<li>Uses DAX calculations to assist in identifing peak travel hours and group them into categories.</li>
 <li>Includes a heatmap to visualize passenger patterns and trends over different hours of the day.</li>
-<li>Addressed issues with sorting by creating a separate table for 'DayOfWeek' and DAX to ensure correct hour of the day order.</li>
+<li>Addressed issues with time variable sorting by creating a separate table for 'DayOfWeek' and DAX to ensure correct hour of the day order.</li>
 </ul>
 <p></p>
 
 ![RouteOv](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Time_Perf.png)
+<p></p>
+
+### Travel Time Insights:
+
+
+
 <br></br>
 <br></br>
+
+
+
 
 ### Revenue:
 
