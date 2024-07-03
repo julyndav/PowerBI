@@ -7,9 +7,10 @@ Project was one of Maven Analytics data challenges.
 <br></br>
 ## About this project:
 
-### Project Rundown
+### Challenge Project Rundown
 #### Objective:
-Create an exploratory dashboard that helps analyze traveler behavior and operating performance.
+As a BI Developer for National Rail, a company that provides business services to passenger trains operatored in England, Scotland, and Wales, 
+create an exploratory dashboard that will: 
 <ul>
 <li>Identify the most popular train routes</li>
 <li>Determine peak travel times</li>
@@ -19,7 +20,16 @@ Create an exploratory dashboard that helps analyze traveler behavior and operati
 <br>
 
 
-## Analysis Process:
+# My Analysis Process:
+conducted analysis in SQL to to surface insights on sales trends and SAS metrics for a self-created zoom data set containing 
+100K subscription records worked independently for 3 weeks to clean and analyze data in SQL and built performance dashboard in Tableau to 
+visualize Trends related to plan types regions and plan periods surface insights and recommendations geared towards sales and marketing teams 
+focusing on monthly promotions and Enterprise plans
+
+
+
+<br>
+
 ### Reviewing the Data:
 <ul>
 <li>Reviewed the provided data consisting of two CSV tables: one with working data and another with variable information.</li>
