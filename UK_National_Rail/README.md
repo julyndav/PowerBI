@@ -1,6 +1,9 @@
 # UK National Rail Analysis
-Project was one of Maven Analytics data challenges.
-<br>
+Led comprehensive data analysis using Power Query and Power BI to uncover key rail passenger trends and station metrics. Extracted and processed
+30k+ passenger records from Maven Analytics, focusing on improving data quality and transforming insights into actionable recommendations. 
+Developed an interactive Power BI dashboard to visualize critical metrics including train routes, peak travel times, ticket revenue, 
+station performance, and passenger behavior. Delivered insights and feasibility study recommendations to support potential rail expansion initiatives.
+<br></br>
 
 ## Table of Contents:
 [Interactive PowerBI Dashboard](https://mavenanalytics.io/project/15152)<br>
@@ -21,14 +24,7 @@ create an exploratory dashboard that will:
 
 
 # My Analysis Process:
-conducted analysis in SQL to to surface insights on sales trends and SAS metrics for a self-created zoom data set containing 
-100K subscription records worked independently for 3 weeks to clean and analyze data in SQL and built performance dashboard in Tableau to 
-visualize Trends related to plan types regions and plan periods surface insights and recommendations geared towards sales and marketing teams 
-focusing on monthly promotions and Enterprise plans
 
-
-
-<br>
 
 ### Reviewing the Data:
 <ul>
@@ -59,7 +55,8 @@ focusing on monthly promotions and Enterprise plans
 </ul>
 <br>
 
-## Dashboard
+
+# Dashboard
 ### Overview Page:
 <ul>
 <li>Displays general ticket information: quantity, purchase methods, monthly ticket totals, and average price.</li>
@@ -73,7 +70,7 @@ focusing on monthly promotions and Enterprise plans
 ### General Insights: 
 <b>Enhancing Online Sales Channel:</b>
 
-With 59% of purchases being made online, there is a clear trend towards digital transactions. Investing in improving the online purchasing experience, such as optimizing the website or mobile app for easier navigation and quicker transactions, could lead to increased sales and revenue.
+With 59% of purchases done online, there is a clear trend towards digital transactions. Investing in improving the online purchasing experience, such as optimizing the website or mobile app for easier navigation and quicker transactions, could lead to increased sales and revenue.
 
 <b>Utilization of Discount Railcard:</b>
 
@@ -109,7 +106,7 @@ Focusing on maintaining or improving punctuality at top arrival stations (85% on
 
 ![RouteOv](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Departures.png)
 ### General Insights: 
-<b>Increase Departure Stations:</b>
+<b>Departure Stations:</b>
 The distance between Edinburgh and the nearest departure station in Leeds represents a substantial area. Considering budget and geographical coverage, 
 strategically increasing the number of stations along this route has significant profit potential. By enhancing accessibility and service coverage in 
 this corridor, it can effectively capture untapped market demand and optimize revenue generation.
