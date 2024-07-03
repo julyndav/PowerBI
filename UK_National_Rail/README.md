@@ -1,5 +1,5 @@
 # UK National Rail Analysis
-Led comprehensive data analysis using Power Query and Power BI to uncover key rail passenger trends and station metrics. Extracted and processed
+Comprehensive data analysis using Power Query and Power BI to uncover key rail passenger trends and station metrics. Extracted and processed
 30k+ passenger records from Maven Analytics, focusing on improving data quality and transforming insights into actionable recommendations. 
 Independantly developed an interactive Power BI dashboard to visualize critical metrics including train routes, peak travel times, ticket revenue, 
 station performance, and passenger behavior. Delivered insights and feasibility study recommendations to support potential rail expansion initiatives.
@@ -64,25 +64,22 @@ create an exploratory dashboard that will:
 
 ### Overview Insights: 
 <b>Online Sales:</b>
-
 With 59% of purchases done online, there is a clear trend towards digital transactions. Contactless and debit card usage could be from in station purchases. 
 
 <b>Utilization of Discount Railcard:</b>
-
 Despite the discount railcard availability, 66% of passengers do not use it. Identifying reasons for low adoption (e.g., awareness, perceived value, eligibility) and implementing targeted marketing or adjustments could boost usage, increasing ticket sales and revenue.
 
-<b>Operational Efficiency Based on Punctuality:</b>
-
-Focusing on maintaining or improving punctuality at top arrival stations (average 82% on-time) and departure stations ( average 89% on-time) can boost customer satisfaction, repeat business, and operational efficiency. Addressing factors causing delays at underperforming stations can optimize operations and reduce associated costs.
+<b>Efficiency Based on Punctuality:</b>
+Focusing on maintaining or improving punctuality for the top arrival stations (average 82% on-time) and departure stations (average 89% on-time) can boost customer satisfaction, repeat business, and operational efficiency. Addressing factors for underperforming stations can optimize operations and reduce associated costs.
 
 <br></br>
 
 ### Route Overview:
 <ul>
-<li>Showcases ticket classes, highlights the main reasons for delays and refunds totals per ticket class.</li>
+<li>Showcases ticket classes, highlights reasons for delay and refunds totals per ticket class.</li>
 <li>Features an interactive route map and a general timeline to visualize passenger patterns over a 24-hour period.</li>
-<li>There are separate dashboards for Arrival and Departure information. These are access via the buttons on the main route page.</li>
-<li>If one chooses, there is a Passenger Dashboard which displays passenger information anonomously.</li>  
+<li>There are separate dashboards for Arrival and Departure information. These are accessed via the buttons on the main route page.</li>
+<li>If one chooses, there is a Passenger dashboard which displays passenger trip information.</li>  
 </ul>
 <p></p>
 
@@ -93,7 +90,7 @@ Focusing on maintaining or improving punctuality at top arrival stations (averag
 ### Departures:
 <ul>
 <li>Visualizations exclude canceled trips to provide a clearer picture of actual departures.</li>
-<li>Identifies peak travel times: 6-8am and 4-6pm, influenced by commuters and possible students.</li>
+<li>Identifies peak travel times: 6-8am and 4-6pm, influenced by working class commuters and possibly students.</li>
 <li>Breaks down ticketing by station.</li>
 <li>Customized tooltip to display additional information.</li>
 </ul>
@@ -102,7 +99,7 @@ Focusing on maintaining or improving punctuality at top arrival stations (averag
 ![RouteOv](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Departures.png)
 ### Departure Station Insights: 
 <b>Departure Stations:</b>
-The distance between Edinburgh and the nearest departure station in Leeds represents a substantial area for potentially increasing the number of stations along this route has significant profit potential. By enhancing accessibility and service coverage in this corridor, it can effectively capture untapped market demand and optimize revenue generation.
+The distance between Edinburgh and the nearest departure station in Leeds represents a substantial area for possibly increasing the number of stations along this route and has significant profit potential. By enhancing accessibility and service coverage in this corridor, it can effectively capture untapped market demand and optimize revenue generation.
 <br></br>
 
 <figure>
@@ -125,11 +122,10 @@ The distance between Edinburgh and the nearest departure station in Leeds repres
 
 <b>Arrival Stations:</b>
 Same with Departures, there are substantial areas that are vacant. This significantly increases commuter time by bus or other means to get to/from a station. 
-Costs involved in laying new rail is substantial so thorough research would need to be conducted in the areas to see if rail expansion is even viable.
-Resident surveys, need, land surveys and more are all things to take into account during research.
+Costs involved in laying new rail is substantial so thorough research would need to be conducted in those areas to see if rail expansion is even viable.
 
 <b>Delay Factors:</b>
-Delays in railway operations can be categorized into two primary factors: weather-related delays, which are unpredictable despite forecasts, and operational delays typically caused by technical malfunctions or staffing issues. Understanding these delays requires a deeper analysis to ascertain their root causes, severity levels, and the condition of equipment. This data-driven approach will enable targeted improvements to optimize efficiency, and enhance customer satisfaction by minimizing disruptions.
+Delays in railway operations can be categorized into two primary factors: weather-related delays, which are unpredictable despite forecasts, and operational delays typically caused by technical malfunctions or staffing issues. Understanding these delays requires a deeper analysis to determine their root causes, severity levels, and the condition of existing equipment. This data-driven approach will enable targeted improvements to optimize efficiency, and enhance customer satisfaction by minimizing disruptions.
 <br></br>
 
 ### Overall Route Recommendations:
