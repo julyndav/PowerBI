@@ -146,9 +146,14 @@ Conduct feasibility studies to identify optimal locations for new departure and 
 <p></p>
 
 ### Travel Time Insights:
+<b>Peak Travel Times:</b>
+Standard work should have the highest commuter numbers as people are either on their way to or from work. These hours are from 9am-5pm. Next are the 'Non-Work' hours from 6pm-12am. This time frame is peak for those doing errands after work, going to events or something similar.
 
+<b>Time Between Stations:</b>
+It's to be expected that the Edinbburgh Station has the highest average travel time. Not only is Edinburgh the northern most station but there is a sizeable distance between it and the nearest station. 
 
-
+<b>Passenger Volumne:</b>
+The heatmap clearly displays the peek travel times for those that commute to and from either work or school. 
 <br></br>
 <br></br>
 
