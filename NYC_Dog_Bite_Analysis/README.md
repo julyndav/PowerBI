@@ -61,7 +61,7 @@ By clicking on any of the variables in either bar chart, it will filtered the re
 3. Overall Bite Count by Age: This chart displays the number of bites across different age groups of dogs, ranging from 0 to 17 years old. Notably, a single outlier was observed, a dog allegedly 20 years old.
    
 ![Overview](https://github.com/julyndav/POwerBI/blob/main/NYC_Dog_Bite_Analysis/Images/OverviewData2.png)
-
+<br></br>
 
 ## Data Analysis Insights:
 1. Over 70% of the dogs were not spayed or neutered.
