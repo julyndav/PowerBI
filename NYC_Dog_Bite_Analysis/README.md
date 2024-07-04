@@ -1,9 +1,9 @@
-# NYC_Dog_Bite_Analysis
-I am happy to share my first Power BI project: a dynamic and interactive Dashboard for Dog bite data from various New York city boroughs. The time frame for the data covers 2015 through 2021.  
+# Data-Driven Insights: NYC Dog Bites (2015-2022)  {PowerBI}
+A comprehensive interactive dashboard analyzing dog bite incidents in NYC from 2015 to 2022, utilizing a dataset of approximately 10,000 records sourced from Kaggle. The data cleaning process was performed on the Kaggle's platform, focusing on duplicate removal, data type adjustments, and dog breed consolidation. Using Python and Pandas libraries, I performed in-depth exploratory data analysis (EDA) and created insightful visualizations.
 
-The initial dataset for this analysis was cleaned using the Kaggle platform then imported into PowerBI. There is a link to the Kaggle analysis below. There is also a link to the original dataset from the New York Open Data website (the dataset is continually being updated).
+The refined dataset was extracted from the Jupyter Notebook into a CSV file and seamlessly integrated into PowerBI. This allowed me to create dynamic visualizations that effectively convey key insights from the exploratory analysis. This project demonstrates my proficiency in data cleaning, transformation, and visualization, showcasing my ability to extract actionable insights from complex datasets.
+<br></br>
 
-This dashboard provides a comprehensive view of the data broken down by Borough with an overall view, key metrics and visualizations that offer valuable insights.  <br></br>
 ## Table of Contents:
 [Kaggle Analysis w/dataset](https://www.kaggle.com/code/julyndav/ny-dog-bite-analysis-visualizations)
 
@@ -31,19 +31,18 @@ This dashboard provides a comprehensive view of the data broken down by Borough 
 <br></br>
 
 ## Dashboard Notes:
-<i>Along with learning to import data from an external source and create various visualizations. This project was also to practice customizing those visualizations.</i>
-
 There is a main landing page/home page where an individual borough can be selected. The overview option shows various KPI's and other bite trends. 
 
 ![Dashboard Homescreen](https://github.com/julyndav/PowerBI/blob/main/NYC_Dog_Bite_Analysis/Images/HomeScreen.png)
 <br></br>
-## Borough Dashboards
-Each borough as their own separate dashboard. Borough dashboards consists of donut charts and bar charts. Clicking a variable on either bar chart will filter the other visuals within the page.
 
-1.	Spayed/Neutered Percentage: This donut chart shows the distribution of whether the dog was spayed/neutered. Again this can only be known if the dog involved in the biting incident was detained or the dog was known by the person bit.
-2.	Gender Percentage: This donut chart shows the distribution genders.
-3.	Bites per Year: This clustered column chart shows the total bite incidents for each year. It helps in understanding/determining bite trends.
-4.	Top 8 Dog Breeds: This clustered column chart shows the top dog breeds prone to biting for the boroughs. 8 Breeds were chosen so the chart would display fully.
+## Borough Dashboards
+Each borough has their own separate dashboard. Borough dashboards consists of donut charts and bar charts. Clicking a variable on either bar chart will filter the other visuals within the page.
+
+1.	Spayed/Neutered Percentage: The distribution of whether the dog was spayed/neutered. Again this can only be known if the dog involved in the biting incident was detained or the dog was known by the person bit.
+2.	Gender Percentage: Shows the distribution genders.
+3.	Bites per Year: Total bite incidents for each year. It helps in understanding/determining bite trends.
+4.	Top 8 Dog Breeds: TTp dog breeds prone to biting for the boroughs. 8 Breeds were chosen so the chart would display fully.
    
 ![Dashboard borough1](https://github.com/julyndav/POwerBI/blob/main/NYC_Dog_Bite_Analysis/Images/BoroughScreen.png)
 
@@ -57,13 +56,15 @@ By clicking on any of the variables in either bar chart, it will filtered the re
 <br></br>
 ## Overview Dashboard   
 
-1.	KPIs: These are just a random sample of various KPIs that could have been created. 
-2.	Bites per Months Overall: This clustered column chart breaks down the bite totals for each month of the entire study. We can see that the summer months are higher due to folks being out and about more.
-3. Overall Bite Count by Age: Range of ages vs number of bites. The Ages went from 0 to 17.  Allegedly, one of the dogs in the study was 20 years old so they were singled out.  
-
+1.	Key Performance Indicators (KPIs): Highlight the crucial metrics such as total bite incidents, number of male vs females, spaye/neuter breakdown.
+2.	Bites per Month Overall: This visualization breaks down the total number of bites for each month throughout the study period. The data reveals a noticeable increase in incidents during the summer months, likely due to higher outdoor activity.
+3. Overall Bite Count by Age: This chart displays the number of bites across different age groups of dogs, ranging from 0 to 17 years old. Notably, a single outlier was observed, a dog allegedly 20 years old.
+   
 ![Overview](https://github.com/julyndav/POwerBI/blob/main/NYC_Dog_Bite_Analysis/Images/OverviewData2.png)
 
 
-
-
-
+## Data Analysis Insights:
+1. Over 70% of the dogs were not spayed or neutered.
+2. The majority of dogs involved in bite attacks where Male at 46%. Females were reportedly involved in only 19% of bite incidences.
+3. Unknown Gender: These dogs accounts for 36% of bite incidences. The unknown factor could come from the dog running off after the incident occured.
+4. <b>Data Discrepancy Insight:</b> Dogs listed with an age of 0 likely represent cases where the dogs ran away after the bite incident. This ties in with the "unknown gender" variable, as these dogs are often not captured and their details remain unverified. We would expect the counts of "age 0" and "unknown gender" to be similar, as it's unlikely that a dog's age would be known without knowing its gender. This discrepancy suggests that there may be inconsistencies in how data was recorded for runaway dogs.
