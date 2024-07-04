@@ -158,16 +158,30 @@ The heatmap clearly displays the peek travel times for those that commute to and
 <br></br>
 
 
-
-
 ### Revenue:
-
-Summarizes monthly revenue amounts. Incorporated custom tooltip that breaks down the months into days of the week for that month.
-Highlights the difference between gross and net revenue amounts.
-Provides a detailed revenue breakdown by ticket type and class to identify key revenue drivers.
+<ul>
+<li>Summarizes monthly revenue amounts.</li> 
+<li>Incorporated custom tooltip that breaks down the months into days of the week for that month.</li>
+<li>Highlights the difference between gross and net revenue amounts.</li>
+<li>Provides a detailed revenue breakdown by ticket type and class to identify key revenue drivers.</li>
+</ul>
+<p></p>
 
 ![RouteOv](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Revenue_DB.png)
 <br></br>
+
+### Revenue Insights:
+<b>Refunds:</b>
+Approximately 4% of trip transactions resulted in a refund. Weather related delays resulted in the lowest refund rate at 9.69% but accounted for the majority of delays. Technical and staffing issues attributed to the highest refund rates with Technical issues accounting for over 50% of refunds. 
+
+<b>Revenue</b>
+December is shown but the month only contained a weeks worth of data from 2023 which had 34 tickets sold for that time frame. For January, the highest grossing day of the week was Wednesday at $39K. February highest grossing day was Friday at $25k. March's highest grossing surprisingly was Sunday at $29k and April's highest grossing day was Tuesday at $30k.
+
+From the 'Revenue Breakdown', We can see that passengers prefer to:
+1) Purchase tickets online
+2) Purchase Standard Class tickets
+3) Not use the discount railcard
+4) Purchase tickets in advance.
 
 
 ![Passengers](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Passenger_DB.png)
