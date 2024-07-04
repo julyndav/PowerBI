@@ -52,7 +52,7 @@ create an exploratory dashboard that will:
 
 
 # Dashboard
-### Overview Page:
+## Overview Page:
 <ul>
 <li>Displays general ticket information: quantity, purchase methods, monthly ticket totals, and average price.</li>
 <li>Highlights the number of stations covered, with a focus on the top 3 departure and arrival stations, their on-time performance, and revenue.</li>
@@ -74,7 +74,7 @@ Focusing on maintaining or improving punctuality for the top arrival stations (a
 
 <br></br>
 
-### Route Overview:
+## Route Overview:
 <ul>
 <li>Showcases ticket classes, highlights reasons for delay and refunds totals per ticket class.</li>
 <li>Features an interactive route map and a general timeline to visualize passenger patterns over a 24-hour period.</li>
@@ -134,7 +134,7 @@ Conduct feasibility studies to identify optimal locations for new departure and 
 <br></br>
 <br></br>
 
-### Peak Travel Times:
+## Peak Travel Times:
 <ul>
 <li>Uses DAX calculations to assist in identifing peak travel hours and group them into categories.</li>
 <li>Includes a heatmap to visualize passenger patterns and trends over different hours of the day.</li>
@@ -155,10 +155,13 @@ It's to be expected that the Edinbburgh Station has the highest average travel t
 <b>Passenger Volumne:</b>
 The heatmap clearly displays the peek travel times for those that commute to and from either work or school. 
 <br></br>
+### Travel Time Recommendations:
+<b>Passenger Volumn:</b>
+Ensure that trains have sufficient capacity during peak hours to handle the high passenger volume. This may involve larger trains or adding additional cars to existing services. Put in place measures to manage passenger flow at major stations during peak hours, such as additional staffing, clear signage, and crowd control measures to help with boarding and exiting. These recommendations will help reduce congestion, minimize travel times, and ensure a more comfortable and efficient journey for all commuters. 
+<br></br>
 <br></br>
 
-
-### Revenue:
+## Revenue:
 <ul>
 <li>Summarizes monthly revenue amounts.</li> 
 <li>Incorporated custom tooltip that breaks down the months into days of the week for that month.</li>
@@ -182,6 +185,27 @@ From the 'Revenue Breakdown', We can see that passengers prefer to:
 2) Purchase Standard Class tickets
 3) Not use the discount railcard
 4) Purchase tickets in advance.
+<p></p>
+
+### Revenue Recommendations:
+<b> Improve Technical and Staffing Reliability:</b>
+Implement a rigorous maintenance schedule to minimize technical issues. Conduct regular training sessions and improve the staffing process to ensure that adequate staff is available, especially during peak times. Invest in better monitoring and early detection systems to quickly address technical problems before they impact service.
+
+<b> Refund/Delays:</b>
+Enhance the communication system to inform passengers promptly about weather-related delays and offer alternative options to reduce the impact.
+Consider offering flexible rescheduling options rather than refunds to retain revenue.
+
+<b> Ticket Recommendations:</b>
+1) Improve the user experience on the online ticketing platform to make it more intuitive and faster.
+2) Provide a seamless mobile experience to cater to on-the-go customers.
+3) Offer exclusive online discounts or loyalty points to encourage more online purchases.
+4) Offer early bird discounts for passengers who book tickets well in advance.
+5) Provide additional benefits for advance purchasers, such as seat selection or free Wi-Fi.
+6) Railcard: Reevaluate the discount railcard program to understand why it is underutilized. Simplify the process of acquiring and using the discount railcard.
+   Promote the benefits of the discount railcard through targeted marketing campaigns.
+<br></br>
+<br></br>
 
 
+## Passenger Dashboard Overview.
 ![Passengers](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Passenger_DB.png)
