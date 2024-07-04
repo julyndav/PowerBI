@@ -68,5 +68,5 @@ By clicking on any of the variables in either bar chart, it will filtered the re
 2. The majority of dogs involved in bite attacks where Male at 46%. Females were reportedly involved in only 19% of bite incidences.
 3. Unknown Gender: These dogs accounts for 36% of bite incidences. The unknown factor could come from the dog running off after the incident occured.
 4. <b>Data Discrepancy Insight:</b> Dogs listed with an age of 0 likely represent cases where the dogs ran away after the bite incident. This ties in with the "unknown gender" variable, as these dogs are often not captured and their details remain unverified. We would expect the counts of "age 0" and "unknown gender" to be similar, as it's unlikely that a dog's age would be known without knowing its gender. This discrepancy suggests that there may be inconsistencies in how data was recorded for runaway dogs.
-5. Out of the Top 8 dog breeds prone to bitting, 3 of them are small breeds, Terriers, Chihuahuas and Shiz-Tzus.
+
    
