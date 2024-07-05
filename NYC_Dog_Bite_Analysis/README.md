@@ -21,9 +21,15 @@ The refined dataset was extracted from the Jupyter Notebook into a CSV file and 
 | SpayNeuter | Whether reproductive organs have been removed |
 | Borough | New York City neighborhood/borough that bite took place in |
 | ZipCode |Zip code bite took place in |
-<p></p>
 
-
+<br></br>
+### Skills Demostrated
+<ul>
+<li>Python (for data cleaning, data manipulation and exploratory analysis)</li>
+<li>Panda Libraries (for data visualizations)</li>
+<li>Dashboard Design (PowerBI and Powerpoint)</li>
+<li>Extract and Loading Data</li>
+</ul>
 
 <br></br>
 # Project Overview:
