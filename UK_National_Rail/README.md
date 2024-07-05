@@ -47,8 +47,17 @@ create an exploratory dashboard that will:
 <li>Designed the overall aesthetic and layout to ensure a user-friendly interface. The background and icons were designed and exported from PowerPoint.</li>
 </ul>
 <p></p>
-<br>
 
+### Skills Demostrated
+<ul>
+<li>Data extraction and loading</li>
+<li>Data cleaning (using Power Query)</li>
+<li>Calculated Columns</li>
+<li>Data Analysis Expression (DAX) Functions</li>
+<li>Dashboard design</li>
+<li>Data Visualisation</li>
+</ul>
+<br></br>
 
 
 # Dashboard
