@@ -7,7 +7,9 @@ station performance, and passenger behavior. Delivered insights and feasibility 
 
 ## Table of Contents:
 [Interactive PowerBI Dashboard](https://mavenanalytics.io/project/15152)<br>
+[Data Source](https://mavenanalytics.io/challenges/maven-rail-challenge/08941141-d23f-4cc9-93a3-4c25ed06e1c3)
 <br></br>
+
 ## About this project:
 
 ### Challenge Project Rundown
@@ -24,7 +26,6 @@ create an exploratory dashboard that will:
 
 
 # My Analysis Process:
-
 
 ### Reviewing the Data:
 <ul>
@@ -58,7 +59,6 @@ create an exploratory dashboard that will:
 <li>Data Visualisation</li>
 </ul>
 <br></br>
-
 
 # Dashboard
 ## Overview Page:
@@ -96,7 +96,7 @@ Focusing on maintaining or improving punctuality for the top arrival stations (a
 <br></br>
 
 
-### Departures:
+## Departures:
 <ul>
 <li>Visualizations exclude canceled trips to provide a clearer picture of actual departures.</li>
 <li>Identifies peak travel times: 6-8am and 4-6pm, influenced by working class commuters and possibly students.</li>
