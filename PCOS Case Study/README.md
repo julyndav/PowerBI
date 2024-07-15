@@ -6,7 +6,7 @@ This case study, conducted in 2023, uses data collected through a Google survey 
 The interactive PowerBI dashboard developed for this project serves as an informative and visually engaging infographic. It not only presents the findings from the data analysis but also aims to educate viewers a little about PCOS and its main symptoms. 
  <br></br>
 
-## Table of Contents:
+### Table of Contents:
 [Data Source](https://www.kaggle.com/datasets/sahilkoli04/pcos2023)
 <br></br>
 
@@ -49,16 +49,15 @@ The interactive PowerBI dashboard developed for this project serves as an inform
 <br></br>
 
 
-# Dashboard
-## Overview Page:
+# Dashboard & Analysis Overview:
+### Section 1:
+![sect1](https://github.com/julyndav/PowerBI/blob/main/PCOS%20Case%20Study/Images/DashBrd1.png)
+
 <ul>
-<li>Displays general ticket information: quantity, purchase methods, monthly ticket totals, and average price.</li>
-<li>Highlights the number of stations covered, with a focus on the top 3 departure and arrival stations, their on-time performance, and revenue.</li>
-<li>KPIs and visuals to provide a summary of other key metrics.</li>
+<li>Gives a brief synopsis of PCOS</li>
+<li>22% of the participants have been diagnosed with PCOS.</li>
 </ul>
 <p></p>
-
-![MainDB](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/UKRail%20Img1.png)
 
 ### Overview Insights: 
 <b>Online Sales:</b>
