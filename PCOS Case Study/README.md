@@ -59,16 +59,12 @@ The interactive PowerBI dashboard developed for this project serves as an inform
 <li>78% of the participants stated that have not been diagnosed with PCOS.</li> 
 </ul>
 <p></p>
-
-### Overview Insights: 
-<b>Online Sales:</b>
-With 59% of purchases done online, there is a clear trend towards digital transactions. Contactless and debit card usage could be from in station purchases. 
-
-<b>Utilization of Discount Railcard:</b>
-Despite the discount railcard availability, 66% of passengers do not use it. Identifying reasons for low adoption (e.g., awareness, perceived value, eligibility) and implementing targeted marketing or adjustments could boost usage, increasing ticket sales and revenue.
-
-<b>Efficiency Based on Punctuality:</b>
-Focusing on maintaining or improving punctuality for the top arrival stations (average 82% on-time) and departure stations (average 89% on-time) can boost customer satisfaction, repeat business, and operational efficiency. Addressing factors for underperforming stations can optimize operations and reduce associated costs.
-
 <br></br>
 
+### Section 2: 
+![sect2](https://github.com/julyndav/PowerBI/blob/main/PCOS%20Case%20Study/Images/DashBrd2.png)
+
+<ul>
+ <li>Even though there were only 465 participants, the data still provided an valueable insight into the symptoms of PCOS.</li>
+ <li>The age-range for particpants was diverse. More information needed on target audience for the survey.</li>
+</ul>
