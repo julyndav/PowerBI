@@ -1,13 +1,14 @@
-# PCOS A Case Study Analysis
-Comprehensive data analysis using Power Query and Power BI to uncover key rail passenger trends and station metrics. Extracted and processed
-30k+ passenger records from Maven Analytics, focusing on improving data quality and transforming insights into actionable recommendations. 
-Independantly developed an interactive Power BI dashboard to visualize critical metrics including train routes, peak travel times, ticket revenue, 
-station performance, and passenger behavior. Delivered insights and feasibility study recommendations to support potential rail expansion initiatives.
+# PCOS: A Case Study Analysis
+PCOS or Poly Cystic Ovary Syndrome, a hormonal imbalance and leading cause of infertility, is charaterized by a wide range of symptoms that can be both phsyical and mental. The data for this 2023 case study was collected via Google survey by a team of final-year engineering students that were developing a PCOS risk prediction system utilizing machine learning.
+
+This interactive PowerBI dashboard is designed as an infographic. 
+
+
+ 
 <br></br>
 
 ## Table of Contents:
-[Interactive PowerBI Dashboard](https://mavenanalytics.io/project/15152)<br>
-[Data Source](https://mavenanalytics.io/challenges/maven-rail-challenge/08941141-d23f-4cc9-93a3-4c25ed06e1c3)
+[Data Source](https://www.kaggle.com/datasets/sahilkoli04/pcos2023)
 <br></br>
 
 ## About this project:
