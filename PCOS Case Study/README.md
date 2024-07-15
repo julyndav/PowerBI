@@ -56,6 +56,7 @@ The interactive PowerBI dashboard developed for this project serves as an inform
 <ul>
 <li>Gives a brief synopsis of PCOS</li>
 <li>22% of the participants have been diagnosed with PCOS.</li>
+<li>78% of the participants stated that have not been diagnosed with PCOS.</li> 
 </ul>
 <p></p>
 
