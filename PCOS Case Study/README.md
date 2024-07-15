@@ -1,7 +1,7 @@
 # PCOS: A Case Study Analysis
 PCOS or Poly Cystic Ovary Syndrome, a hormonal imbalance and leading cause of infertility, is charaterized by a wide range of symptoms that can be both phsyical and mental. The data for this 2023 case study was collected via Google survey by a team of final-year engineering students that were developing a PCOS risk prediction system utilizing machine learning.
 
-This interactive PowerBI dashboard is designed as an infographic. 
+This interactive PowerBI dashboard is designed as an infographic and it meant to be informative while also relaying the analysis findings. 
 
 
  
