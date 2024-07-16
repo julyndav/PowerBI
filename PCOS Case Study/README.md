@@ -50,7 +50,7 @@ The interactive PowerBI dashboard developed for this project serves as an inform
 
 
 # Dashboard & Analysis Overview:
-### Section 1:
+### Section 1: Introduction
 ![sect1](https://github.com/julyndav/PowerBI/blob/main/PCOS%20Case%20Study/Images/DashBrd1.png)
 
 <ul>
@@ -58,13 +58,26 @@ The interactive PowerBI dashboard developed for this project serves as an inform
 <li>22% of the participants have been diagnosed with PCOS.</li>
 <li>78% of the participants stated that have not been diagnosed with PCOS.</li> 
 </ul>
-<p></p>
 <br></br>
 
-### Section 2: 
+### Section 2: Age Analysis
 ![sect2](https://github.com/julyndav/PowerBI/blob/main/PCOS%20Case%20Study/Images/DashBrd2.png)
 
 <ul>
  <li>Even though there were only 465 participants, the data still provided an valueable insight into the symptoms of PCOS.</li>
- <li>The age-range for particpants was diverse. More information needed on target audience for the survey.</li>
+ <li>Out of 465 participants, Age groups outside of the 20-35 range are very limited. A. This limited representation restricts the findings across different age groups, particularly for those over 50. Insights from this study may not capture a true spectrum of the population, this will limit any analysis of age-related conclusions.</li>
 </ul>
+<br></br>
+
+### Section 3: Effects & Symptoms 
+
+![Sect3](https://github.com/julyndav/PowerBI/blob/main/PCOS%20Case%20Study/Images/DashBrd3.png)
+
+<ul>
+ <li>Majority of participants experience "regular" menstural cycles. One occurs every month and lasts 4-6 days.</li>
+ <li>Results for those over 50 are not shown as the data was negligible.</li>
+     - Menstrural Fregquency:  (4) Participants have periods everyone with (1) having periods every 3 months.<p>
+     - Periods lasts approximately 4 days.
+</ul>
+<br></br>
+
