@@ -43,15 +43,24 @@ The interactive PowerBI dashboard developed for this project serves as an inform
 #### Revising Column Lables:
 | Revised | Original Column Lable |
 | --- | --- |
-| 1 | Create project description |
-| 2 | Import/installing libraries |
-| 3 | Upload and analyize data |
-| 4 | Data cleaning and preparation |
-| 5 | Customer segmentation and analysis |
-| 6 | Product Analysis (user behaviors and retention rate) |
-| 7 | Sales Analysis (conversion rate, purchase size, LTV)|
-| 8 | Marketing Analysis (Marketing costs, CAC, ROMI) |
-| 9 | Conclusion and Reccomendations |
+| Age | No Change |
+| Weight (in Kg)| No Change |
+| Height (in Cm) | No Change |
+| Blood Group | Can you tell us your blood group? |
+| Weight Gain | Have you gained weight recently? |
+| Body_Facial Hair Growth | Do you have excessive body/facial hair growth? |
+| Skin Darkening | Are you noticing skin darkening recently? |
+| Hair Loss | Do have hair loss/hair thinning/baldness? |
+| Acne | Do you have pimples/acne on your face/jawline? |
+| Regular Fast Food | Do you eat fast food regularly? |
+| Regular Excercise | Do you exercise on a regular basis? |
+| Diagnosed PCOS/PCOD? | Have you been diagnosed with PCOS/PCOD? |
+| Mood Swings | Do you experience mood swings ?  |
+| Periods Regular? | Are your periods regular? |
+| Period Frequency | After how many months do you get your periods?(select 1- if every month/regular)  |
+| Duration | How long does your period last ? (in Days) |
+| Age_Range_Groups |<i> *Calculated Column</i> |
+| PCOS |<i> *Calculated Column </i> |
 
   
 ### Dashboard Concept:
