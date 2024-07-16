@@ -83,7 +83,7 @@ The interactive PowerBI dashboard developed for this project serves as an inform
 </ul>
 <br></br>
 
-### Section 3: Effects & Symptoms 
+### Section 3: Effects 
 
 ![Sect3](https://github.com/julyndav/PowerBI/blob/main/PCOS%20Case%20Study/Images/DashBrd3.png)
 
@@ -93,5 +93,14 @@ The interactive PowerBI dashboard developed for this project serves as an inform
      - Menstrural Fregquency:  (4) Participants have periods everyone with (1) having periods every 3 months.<p>
      - Periods lasts approximately 4 days.
 </ul>
+
+### Symptoms
+![Sect4](https://github.com/julyndav/PowerBI/blob/main/PCOS%20Case%20Study/Images/DashBrd4.png)<p>
+###### <i>If you find yourself having these symptoms and are concerned about them, please see your health care provider.</i><p>
+
+<ul>
+ <li>The interactive dashboard can be filtered by age group and diagnosis. </li>
+ <li>Hormonal changes can affect a variety of things both physical and mental.  The symptoms shown here are what were part of the case study.</li>
+ 
 <br></br>
 
