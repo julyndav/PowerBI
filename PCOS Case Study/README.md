@@ -39,6 +39,20 @@ The interactive PowerBI dashboard developed for this project serves as an inform
  <li>Dataset was checked for duplicates and null values.</li>
 </ul>
 <p></p>
+
+#### Revising Column Lables:
+| Revised | Original Column Lable |
+| --- | --- |
+| 1 | Create project description |
+| 2 | Import/installing libraries |
+| 3 | Upload and analyize data |
+| 4 | Data cleaning and preparation |
+| 5 | Customer segmentation and analysis |
+| 6 | Product Analysis (user behaviors and retention rate) |
+| 7 | Sales Analysis (conversion rate, purchase size, LTV)|
+| 8 | Marketing Analysis (Marketing costs, CAC, ROMI) |
+| 9 | Conclusion and Reccomendations |
+
   
 ### Dashboard Concept:
 <ul>
