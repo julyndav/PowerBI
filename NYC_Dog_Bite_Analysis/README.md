@@ -46,12 +46,12 @@ There is a main landing page/home page where an individual borough can be select
 <br></br>
 
 ## Borough Dashboards
-Each borough has their own separate dashboard. Borough dashboards consists of donut charts and bar charts. Clicking a variable on either bar chart will filter the other visuals within the page.
+Each borough has their own separate dashboard page. Borough pages consists of donut charts and bar charts. Clicking a variable on either bar chart will filter the other visuals within the page.
 
 1.	Spayed/Neutered Percentage: The distribution of whether the dog was spayed/neutered. Again this can only be known if the dog involved in the biting incident was detained or the dog was known by the person bit.
 2.	Gender Percentage: Shows the distribution genders.
 3.	Bites per Year: Total bite incidents for each year. It helps in understanding/determining bite trends.
-4.	Top 8 Dog Breeds: TTp dog breeds prone to biting for the boroughs. 8 Breeds were chosen so the chart would display fully.
+4.	Top 8 Dog Breeds: Top dog breeds prone to biting for the boroughs. 8 Breeds were chosen so the chart would display fully.
    
 ![Dashboard borough1](https://github.com/julyndav/POwerBI/blob/main/NYC_Dog_Bite_Analysis/Images/BoroughScreen.png)
 
