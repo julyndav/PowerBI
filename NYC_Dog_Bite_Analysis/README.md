@@ -1,5 +1,5 @@
 # Data-Driven Insights: NYC Dog Bites (2015-2022)  
-A comprehensive interactive dashboard analyzing dog bite incidents in NYC from 2015 to 2022, utilizing a dataset of approximately 10,000 records sourced from Kaggle. The data cleaning process was performed on the Kaggle's platform, focusing on duplicate removal, data type adjustments, and dog breed consolidation. Using Python and Pandas libraries, I performed in-depth exploratory data analysis (EDA) and created insightful visualizations.
+A comprehensive interactive dashboard analyzing dog bite incidents in NYC from 2015 to 2022, utilizing a dataset of approximately 22,000 records sourced from Kaggle. The data cleaning process was performed via Jupyter Notebook and using Python. The focus was on duplicate removal, data type adjustments, and dog breed consolidation. Using Python and Pandas libraries, I performed in-depth exploratory data analysis (EDA) and created insightful visualizations.
 
 The refined dataset was extracted from the Jupyter Notebook into a CSV file and seamlessly integrated into PowerBI. This allowed me to create dynamic visualizations that effectively convey key insights from the exploratory analysis. This project demonstrates my proficiency in data cleaning, transformation, and visualization, showcasing my ability to extract actionable insights from complex datasets.
 <br></br>
@@ -26,7 +26,7 @@ The refined dataset was extracted from the Jupyter Notebook into a CSV file and 
 ### Skills Demostrated
 <ul>
 <li>Python (for data cleaning, data manipulation and exploratory analysis)</li>
-<li>Panda Libraries (for data visualizations)</li>
+<li>Panda/Matplotlib (for data visualizations)</li>
 <li>Dashboard Design (PowerBI and Powerpoint)</li>
 <li>Extract and Loading Data</li>
 </ul>
