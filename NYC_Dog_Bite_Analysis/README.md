@@ -67,7 +67,7 @@ By clicking on any of the years in either bar chart, it will filtered the rest o
 
 1.	Key Performance Indicators (KPIs): Highlight the crucial metrics such as total bite incidents, number of male vs females, spaye/neuter breakdown.
 2.	Bites per Month Overall: This visualization breaks down the total number of bites for each month throughout the study period. The data reveals a noticeable increase in incidents during the summer months, likely due to higher outdoor activity.
-3. Overall Bite Count by Age: This chart displays the number of bites across different age groups of dogs, ranging from 0 to 17 years old. Notably, a single outlier was observed, a dog allegedly 20 years old.
+3. Overall Bite Count by Age: This chart displays the number of bites across different age groups of dogs, ranging from 0 to 19 years old. Notably, two outliers was observed, dogs allegedly 20 years old.
    
 ![Overview](https://github.com/julyndav/POwerBI/blob/main/NYC_Dog_Bite_Analysis/Images/OverviewData2.png)
 <br></br>
