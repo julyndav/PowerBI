@@ -34,7 +34,7 @@ The refined dataset was extracted from the Jupyter Notebook into a CSV file and 
 <br></br>
 # Project Overview:
 ## Data Notes: 
-* Ages with value of 0 were kept for the analysis. Zero age would be valid to keep in cases where the dog was a stray, or ran off after the bite incident.
+* Ages with value of 0 were kept for the analysis. Zero age is valid in cases where the dog was a stray, or ran off after the bite incident.
 * Bite Month and Bite Year columns were added to the data set to aid in analysis.
 * There is an 'Other' option for the boroughs which included data outside of NYC. By filtering out the 'Other' boroughs, approximately 320 records were excluded from the dashboards as this PowerBi analysis was strictly for the NYC boroughs only. 
 <br></br>
