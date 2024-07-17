@@ -59,7 +59,7 @@ Each borough has their own separate dashboard page. Borough pages consists of do
 By clicking on any of the years in either bar chart, it will filtered the rest of the data accordingly. 
 | Data Filtered by 'Year' Value     | Data Filtered by 'Top 8' Value     | 
 | ----------------------------------- | ----------------------------------- | 
-| Selected the first dog breed       |   Selected 2018 Bite year         |
+| Selected 2015 Bite year    |   Selected Pit Bull Breed         |
 ![Breed](https://github.com/julyndav/POwerBI/blob/main/NYC_Dog_Bite_Analysis/Images/Manhat_filrd.png) | ![Year](https://github.com/julyndav/POwerBI/blob/main/NYC_Dog_Bite_Analysis/Images/Manhat_filrd2.png) | 
 
 <br></br>
