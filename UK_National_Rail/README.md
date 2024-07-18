@@ -8,6 +8,16 @@ station performance, and passenger behavior. Delivered insights and feasibility 
 ## Table of Contents:
 [Interactive PowerBI Dashboard](https://mavenanalytics.io/project/15152)<br>
 [Data Source](https://mavenanalytics.io/challenges/maven-rail-challenge/08941141-d23f-4cc9-93a3-4c25ed06e1c3)
+
+### Skills Demostrated
+<ul>
+<li>Data extraction and loading (Python)</li>
+<li>Data cleaning (Power Query)</li>
+<li>Calculated Columns</li>
+<li>Data Analysis Expression (DAX) Functions</li>
+<li>Dashboard design (PowerPoint)</li>
+<li>Data Visualisation(PowerBI)</li>
+</ul>
 <br></br>
 
 ## About this project:
@@ -49,15 +59,6 @@ create an exploratory dashboard that will:
 </ul>
 <p></p>
 
-### Skills Demostrated
-<ul>
-<li>Data extraction and loading</li>
-<li>Data cleaning (using Power Query)</li>
-<li>Calculated Columns</li>
-<li>Data Analysis Expression (DAX) Functions</li>
-<li>Dashboard design</li>
-<li>Data Visualisation</li>
-</ul>
 <br></br>
 
 # Dashboard
