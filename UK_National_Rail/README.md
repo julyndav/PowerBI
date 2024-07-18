@@ -219,6 +219,3 @@ Consider offering flexible rescheduling options rather than refunds to retain re
 <br></br>
 <br></br>
 
-
-## Passenger Dashboard Overview.
-![Passengers](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Passenger_DB.png)
