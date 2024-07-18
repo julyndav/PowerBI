@@ -88,7 +88,7 @@ The interactive PowerBI dashboard developed for this project serves as an inform
 
 <ul>
  <li>Even though there were only 465 participants, the data still provided an valueable insight into the symptoms of PCOS.</li>
- <li>Out of 465 participants, Age groups outside of the 20-35 range are very limited. A. This limited representation restricts the findings across different age groups, particularly for those over 50. Insights from this study may not capture a true spectrum of the population, this will limit any analysis of age-related conclusions.</li>
+ <li>Out of 465 participants, Age groups outside of the 20-35 range are very limited. This limited representation restricts the findings across different age groups, particularly for those over 50. Insights from this study may not capture a true spectrum of the population, this will limit any analysis of age-related conclusions.</li>
 </ul>
 <br></br>
 
@@ -99,7 +99,7 @@ The interactive PowerBI dashboard developed for this project serves as an inform
 <ul>
  <li>Majority of participants experience "regular" menstural cycles. One occurs every month and lasts 4-6 days.</li>
  <li>Results for those over 50 are not shown as the data was negligible.</li>
-     - Menstrural Fregquency:  (4) Participants have periods everyone with (1) having periods every 3 months.<p>
+     - Menstrural Fregquency: (4) Participants have periods everyone with (1) having periods every 3 months.<p>
      - Periods lasts approximately 4 days.
 </ul>
 
@@ -109,7 +109,7 @@ The interactive PowerBI dashboard developed for this project serves as an inform
 
 <ul>
  <li>The interactive dashboard can be filtered by age group and diagnosis. </li>
- <li>Hormonal changes can affect a variety of things both physical and mental.  The symptoms shown here are what were part of the case study.</li>
+ <li>Hormonal changes can affect a variety of things both physical and mental. The symptoms shown here are what were part of the case study.</li>
  
 <br></br>
 
