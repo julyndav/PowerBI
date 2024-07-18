@@ -5,7 +5,8 @@ The refined dataset was extracted from the Jupyter Notebook into a CSV file and 
 <br></br>
 
 ## Table of Contents:
-[Exploratory Analysis with Python](https://github.com/julyndav/Python/blob/main/DOHMH%20Dog%20Bite%20Analysis/2024_NYC_DOHMH_DA.ipynb)
+[Exploratory Analysis with Python](https://github.com/julyndav/Python/blob/main/DOHMH%20Dog%20Bite%20Analysis/2024_NYC_DOHMH_DA.ipynb)<p>
+[Kaggle Dataset](https://www.kaggle.com/datasets/muhmiqbal/dog-bites-nyc)
 
 [New York Open Data](https://data.cityofnewyork.us/Health/DOHMH-Dog-Bite-Data/rsgh-akpg/about_data)
 <br></br>
