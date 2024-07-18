@@ -4,7 +4,7 @@ PowerBI projects along with their associated files.
 <br>
 
 ## Project List:
-| Project | Task |
+| Project | Description |
 | --- | --- | 
 | [NYC Dog Bites](https://github.com/julyndav/PowerBI/tree/main/NYC_Dog_Bite_Analysis) | Exploratory analysis of dog bite data for NYC's main boroughs |
 | Plantphalia Sales Analysis | Sales trend dashboard |
