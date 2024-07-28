@@ -1,5 +1,5 @@
 # PCOS: A Case Study Analysis
-Polycystic Ovary Syndrome (PCOS) is a hormonal disorder and a leading cause of infertility, affecting millions of women worldwide and characterized by a diverse range of symptoms, both physical and mental.
+Polycystic Ovary Syndrome (PCOS) is a hormonal disorder and a leading cause of infertility, affecting millions worldwide and characterized by a diverse range of symptoms, both physical and mental.
 
 This case study, conducted in 2023, uses data collected through a Google survey by a team of final-year engineering students. The survey's goal was to gather detailed information on various factors related to PCOS, to aid in the development of a machine learning-based PCOS risk prediction system.
 
