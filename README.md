@@ -16,7 +16,7 @@ A collection of Power BI dashboards and reports developed for data analysis and 
 | [NYC Dog Bites](https://github.com/julyndav/PowerBI/tree/main/NYC_Dog_Bite_Analysis) | Exploratory analysis of dog bite data for NYC's main boroughs |
 | Plantphalia Sales Analysis | Sales trend dashboard |
 | [UK National Rail](https://github.com/julyndav/PowerBI/tree/main/UK_National_Rail) | Maven Analytics Data Challenge |
-| [PCOS Infographic](https://github.com/julyndav/PowerBI/tree/main/PCOS%20Case%20Study) | Infographic style dashboard for a case study analysis on Polycystic Ovary Syndrome |
+
 
 <br></br>
 ## Project Notes:
