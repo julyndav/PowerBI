@@ -5,7 +5,7 @@ A comprehensive, interactive Power BI dashboard exploring tornado activity acros
 ## Table of Contents:
 [Interactive PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmY5NTliYzYtNWZjMS00OGVkLTk2NDctZWFhNmNlYTMyZjQ2IiwidCI6ImI4OTBlNWMxLTg4YzQtNDQ4MC1hM2E1LTA2MGVlOTI2MjZmMCJ9&embedImagePlaceholder=true&pageName=921abace809859bddd06)<br>
 [Data Source](https://www.spc.noaa.gov/wcm/#data)
-<br></br>
+
 
 ### Skills Used
 <ul>
@@ -15,7 +15,6 @@ A comprehensive, interactive Power BI dashboard exploring tornado activity acros
 <li>Dashboard design (Canva)</li>
 <li>Data Visualisation(PowerBI)</li>
 </ul>
-<br></br>
 
 ## About this project:
 Submission for Microsoft PowerBI DataViz World Championship (2025)
@@ -25,40 +24,33 @@ Create an Infographic style PowerBI dashboard to inform the viewer of the danger
 <ul>
 <li>Identify the main destructive trends</li>
 <li>Create a heatmap to show tornado intensity by state</li>
-<li>State specific analys</li>
+<li>State specific analysis</li>
 <li>Time interval trends by year and time of day</li>
 </ul>
-<br>
+<br></br>
 
+# Analysis Process:
 
-# My Analysis Process:
-
-### Reviewing the Data:
+### Reviewing and Processing the Data:
 <ul>
-<li>Reviewed the provided data consisting of two CSV tables: one with working data and another with variable information.</li>
-<li>Loaded the working data into Power BI for initial data cleaning, formatting, and manipulation which was minimal.</li>
+<li>Data was downloaded from the National Oceanic and Atmospheric Administration website.</li>
+<li>Loaded data into Python to exlpore, clean and transform as needed.</li> 
+<li>Dataset was filtered for the years of 2000-2022.</li>
+<li>Data was then extracted from Python into a CSV file for analysis</li>
+<li>Loaded the cleaned dataset into Power BI.</li>
 </ul>  
-<p>
-  
-### Processing Data:
-<ul>
-<li>Formatted currency and date columns.</li>
-<li>Reviewed each column’s variables, consolidating the 'Reason for Delay' column to unify various delay reasons.</li>
-<li>Ensured data consistency and accuracy through cleaning and validation processes.</li>
-</ul>
-<p></p>
-  
-### Dashboard Concept:
-<ul>
-<li>Outlined key metrics and potential visuals, dividing the dashboard into four main sections based on the initial requirements.</li>
-<li>Designed the overall aesthetic and layout to ensure a user-friendly interface. The background and icons were designed and exported from PowerPoint.</li>
-</ul>
-<p></p>
-
 <br></br>
 
 # Dashboard
-## Overview Page:
+### Dashboard Concept:
+<ul>
+<li>Aimed for a simple, 2 page design.</li>
+<li>Designed the overall aesthetic and layout to ensure a user-friendly interface. The background and icons were designed and exported from Canva.</li>
+</ul>
+<p></p>
+
+
+## Main Page:
 <ul>
 <li>Displays general ticket information: quantity, purchase methods, monthly ticket totals, and average price.</li>
 <li>Highlights the number of stations covered, with a focus on the top 3 departure and arrival stations, their on-time performance, and revenue.</li>
