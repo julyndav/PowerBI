@@ -14,7 +14,7 @@ A collection of Power BI dashboards and reports developed for data analysis and 
 | Project | Description |
 | --- | --- | 
 | [NYC Dog Bites](https://github.com/julyndav/PowerBI/tree/main/NYC_Dog_Bite_Analysis) | Exploratory analysis of dog bite data for NYC's main boroughs |
-| Plantphalia Sales Analysis | Sales trend dashboard |
+| Tracking Tornadoes | Trends, Severity and Impact |
 | [UK National Rail](https://github.com/julyndav/PowerBI/tree/main/UK_National_Rail) | Maven Analytics Data Challenge |
 
 
