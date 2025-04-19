@@ -71,12 +71,7 @@ Create an Infographic style PowerBI dashboard to inform the viewer of the danger
 </ul>
 <p></p>
 
-![MainDB](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Images/Dashboard.png)
-
-
-
-
-
+![MainDB_2ndPg](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Images/Main_Dashboard_2.png)
 
 
 
@@ -93,7 +88,18 @@ Focusing on maintaining or improving punctuality for the top arrival stations (a
 
 <br></br>
 
+## State Specific Dashboard
 
+#### First Section:
+<ul>
+<li>Displays general ticket information: quantity, purchase methods, monthly ticket totals, and average price.</li>
+<li>Highlights the number of stations covered, with a focus on the top 3 departure and arrival stations, their on-time performance, and revenue.</li>
+<li>KPIs and visuals to provide a summary of other key metrics.</li>
+</ul>
+<p></p>
+
+![MainDB](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Images/Dashboard.png)
+<br></br>
 
 ### Revenue Recommendations:
 <b> Improve Technical and Staffing Reliability:</b>
