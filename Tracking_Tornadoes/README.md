@@ -50,7 +50,9 @@ Create an Infographic style PowerBI dashboard to inform the viewer of the danger
 <p></p>
 
 
-## Main Page:
+## Main Page
+
+#### First Section:
 <ul>
 <li>Displays general ticket information: quantity, purchase methods, monthly ticket totals, and average price.</li>
 <li>Highlights the number of stations covered, with a focus on the top 3 departure and arrival stations, their on-time performance, and revenue.</li>
@@ -58,7 +60,26 @@ Create an Infographic style PowerBI dashboard to inform the viewer of the danger
 </ul>
 <p></p>
 
-![MainDB](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/UKRail%20Img1.png)
+![MainDB](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Images/Dashboard.png)
+<br></br>
+
+#### Second Section:
+<ul>
+<li>Displays general ticket information: quantity, purchase methods, monthly ticket totals, and average price.</li>
+<li>Highlights the number of stations covered, with a focus on the top 3 departure and arrival stations, their on-time performance, and revenue.</li>
+<li>KPIs and visuals to provide a summary of other key metrics.</li>
+</ul>
+<p></p>
+
+![MainDB](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Images/Dashboard.png)
+
+
+
+
+
+
+
+
 
 ### Overview Insights: 
 <b>Online Sales:</b>
@@ -72,118 +93,7 @@ Focusing on maintaining or improving punctuality for the top arrival stations (a
 
 <br></br>
 
-## Route Overview:
-<ul>
-<li>Showcases ticket classes, highlights reasons for delay and refunds totals per ticket class.</li>
-<li>Features an interactive route map and a general timeline to visualize passenger patterns over a 24-hour period.</li>
-<li>There are separate dashboards for Arrival and Departure information. These are accessed via the buttons on the main route page.</li>
-<li>If one chooses, there is a Passenger dashboard which displays passenger trip information.</li>  
-</ul>
-<p></p>
 
-![RouteOv](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Route_Overview.png)
-<br></br>
-
-
-## Departures:
-<ul>
-<li>Visualizations exclude canceled trips to provide a clearer picture of actual departures.</li>
-<li>Identifies peak travel times: 6-8am and 4-6pm, influenced by working class commuters and possibly students.</li>
-<li>Breaks down ticketing by station.</li>
-<li>Customized tooltip to display additional information.</li>
-</ul>
-<p></p>
-
-![RouteOv](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Departures.png)
-### Departure Station Insights: 
-<b>Departure Stations:</b>
-The distance between Edinburgh and the nearest departure station in Leeds represents a substantial area for possibly increasing the number of stations along this route and has significant profit potential. By enhancing accessibility and service coverage in this corridor, it can effectively capture untapped market demand and optimize revenue generation.
-<br></br>
-
-<figure>
-  <img src="https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Dept_TT.png" alt="Departure Timetable">
-  <figcaption>Departure Tooltip showing top metrics per selected station.  Values shown are default.</figcaption>
-</figure>
-<br></br>
-
-### Arrivals:
-<ul>
-<li>Similar layout to Departures but focuses on average delay times and performance issues.</li>
-<li>Examines trip delays, on-time percentages, and cancellations.</li>
-<li>Analyzes station-specific delays to highlight where performance improvements can be made.</li>
-<li>Only arrivals had data on delays.</li>
-</ul>
-<p></p>
-
-![RouteOv](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Arrivals.png)
-### Arrival Station Insights:
-
-<b>Arrival Stations:</b>
-Same with Departures, there are substantial areas that are vacant. This significantly increases commuter time by bus or other means to get to/from a station. 
-Costs involved in laying new rail is substantial so thorough research would need to be conducted in those areas to see if rail expansion is even viable.
-
-<b>Delay Factors:</b>
-Delays in railway operations can be categorized into two primary factors: weather-related delays, which are unpredictable despite forecasts, and operational delays typically caused by technical malfunctions or staffing issues. Understanding these delays requires a deeper analysis to determine their root causes, severity levels, and the condition of existing equipment. This data-driven approach will enable targeted improvements to optimize efficiency, and enhance customer satisfaction by minimizing disruptions.
-<br></br>
-
-### Overall Route Recommendations:
-<b>Station Expansion Strategy:</b>
-Conduct feasibility studies to identify optimal locations for new departure and arrival stations between Edinburgh and Leeds. Studies to include but not limited to, resident surveys, land surveys, and market demand research. Focus on areas with significant population density but lacking sufficient station access. This will capture untapped market demand. Evaluate development costs against potential revenue increases to ensure budget and long-term strategic objectives.
-<br></br>
-<br></br>
-
-## Peak Travel Times:
-<ul>
-<li>Uses DAX calculations to assist in identifing peak travel hours and group them into categories.</li>
-<li>Includes a heatmap to visualize passenger patterns and trends over different hours of the day.</li>
-<li>Addressed issues with time variable sorting by creating a separate table for 'DayOfWeek' and DAX to ensure correct hour of the day order.</li>
-</ul>
-<p></p>
-
-![RouteOv](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Time_Perf.png)
-<p></p>
-
-### Travel Time Insights:
-<b>Peak Travel Times:</b>
-Standard work should have the highest commuter numbers as people are either on their way to or from work. These hours are from 9am-5pm. Next are the 'Non-Work' hours from 6pm-12am. This time frame is peak for those doing errands after work, going to events or something similar.
-
-<b>Time Between Stations:</b>
-It's to be expected that the Edinbburgh Station has the highest average travel time. Not only is Edinburgh the northern most station but there is a sizeable distance between it and the nearest station. 
-
-<b>Passenger Volumne:</b>
-The heatmap clearly displays the peek travel times for those that commute to and from either work or school. 
-<br></br>
-### Travel Time Recommendations:
-<b>Passenger Volumn:</b>
-Ensure that trains have sufficient capacity during peak hours to handle the high passenger volume. This may involve larger trains or adding additional cars to existing services. Put in place measures to manage passenger flow at major stations during peak hours, such as additional staffing, clear signage, and crowd control measures to help with boarding and exiting. These recommendations will help reduce congestion, minimize travel times, and ensure a more comfortable and efficient journey for all commuters. 
-<br></br>
-<br></br>
-
-## Revenue:
-<ul>
-<li>Summarizes monthly revenue amounts.</li> 
-<li>Incorporated custom tooltip that breaks down the months into days of the week for that month.</li>
-<li>Highlights the difference between gross and net revenue amounts.</li>
-<li>Provides a detailed revenue breakdown by ticket type and class to identify key revenue drivers.</li>
-</ul>
-<p></p>
-
-![RouteOv](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Revenue_DB.png)
-<br></br>
-
-### Revenue Insights:
-<b>Refunds:</b>
-Approximately 4% of trip transactions resulted in a refund. Weather related delays resulted in the lowest refund rate at 9.69% but accounted for the majority of delays. Technical and staffing issues attributed to the highest refund rates with Technical issues accounting for over 50% of refunds. 
-
-<b>Revenue</b>
-December is shown but the month only contained a weeks worth of data from 2023 which had 34 tickets sold for that time frame. For January, the highest grossing day of the week was Wednesday at $39K. February highest grossing day was Friday at $25k. March's highest grossing surprisingly was Sunday at $29k and April's highest grossing day was Tuesday at $30k.
-
-From the 'Revenue Breakdown', We can see that passengers prefer to:
-1) Purchase tickets online
-2) Purchase Standard Class tickets
-3) Not use the discount railcard
-4) Purchase tickets in advance.
-<p></p>
 
 ### Revenue Recommendations:
 <b> Improve Technical and Staffing Reliability:</b>
