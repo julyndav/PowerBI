@@ -1,37 +1,32 @@
 # Tracking Tornadoes
-Comprehensive data analysis using Power Query and Power BI to uncover key rail passenger trends and station metrics. Extracted and processed
-30k+ passenger records from Maven Analytics, focusing on improving data quality and transforming insights into actionable recommendations. 
-Independantly developed an interactive Power BI dashboard to visualize critical metrics including train routes, peak travel times, ticket revenue, 
-station performance, and passenger behavior. Delivered insights and feasibility study recommendations to support potential rail expansion initiatives.
+A comprehensive, interactive Power BI dashboard exploring tornado activity across the continental U.S. over a 22-year period. Designed to provide both high-level overviews and detailed state-specific insights into tornado frequency, damage, injuries, and fatalities.
 <br></br>
 
 ## Table of Contents:
 [Interactive PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmY5NTliYzYtNWZjMS00OGVkLTk2NDctZWFhNmNlYTMyZjQ2IiwidCI6ImI4OTBlNWMxLTg4YzQtNDQ4MC1hM2E1LTA2MGVlOTI2MjZmMCJ9&embedImagePlaceholder=true&pageName=921abace809859bddd06)<br>
-[Data Source](https://mavenanalytics.io/challenges/maven-rail-challenge/08941141-d23f-4cc9-93a3-4c25ed06e1c3)
+[Data Source](https://www.spc.noaa.gov/wcm/#data)
 <br></br>
 
-### Skills Demostrated
+### Skills Used
 <ul>
 <li>Data extraction and loading (Python)</li>
 <li>Data cleaning (Power Query)</li>
-<li>Calculated Columns</li>
-<li>Data Analysis Expression (DAX) Functions</li>
-<li>Dashboard design (PowerPoint)</li>
+<li>Calculated Columns (DAX)</li>
+<li>Dashboard design (Canva)</li>
 <li>Data Visualisation(PowerBI)</li>
 </ul>
 <br></br>
 
 ## About this project:
+Submission for Microsoft PowerBI DataViz World Championship (2025)
 
-### Challenge Project Rundown
 #### Objective:
-As a BI Developer for National Rail, a company that provides business services to passenger trains operatored in England, Scotland, and Wales, 
-create an exploratory dashboard that will: 
+Create an Infographic style PowerBI dashboard to inform the viewer of the dangers and toll that tornadoes cause: 
 <ul>
-<li>Identify the most popular train routes</li>
-<li>Determine peak travel times</li>
-<li>Analyze revenue from different ticket types & ticket classes</li>
-<li>Diagnose on-time performance and contributing factors</li>
+<li>Identify the main destructive trends</li>
+<li>Create a heatmap to show tornado intensity by state</li>
+<li>State specific analys</li>
+<li>Time interval trends by year and time of day</li>
 </ul>
 <br>
 
