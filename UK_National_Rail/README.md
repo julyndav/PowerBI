@@ -6,7 +6,7 @@ station performance, and passenger behavior. Delivered insights and feasibility 
 <br></br>
 
 ## Table of Contents:
-[Interactive PowerBI Dashboard](https://mavenanalytics.io/project/15152)<br>
+[Interactive PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmY5NTliYzYtNWZjMS00OGVkLTk2NDctZWFhNmNlYTMyZjQ2IiwidCI6ImI4OTBlNWMxLTg4YzQtNDQ4MC1hM2E1LTA2MGVlOTI2MjZmMCJ9&embedImagePlaceholder=true&pageName=921abace809859bddd06)<br>
 [Data Source](https://mavenanalytics.io/challenges/maven-rail-challenge/08941141-d23f-4cc9-93a3-4c25ed06e1c3)
 <br></br>
 
