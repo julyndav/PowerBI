@@ -5,7 +5,8 @@ A comprehensive, interactive Power BI dashboard exploring tornado activity acros
 ## Table of Contents:
 [Interactive PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmY5NTliYzYtNWZjMS00OGVkLTk2NDctZWFhNmNlYTMyZjQ2IiwidCI6ImI4OTBlNWMxLTg4YzQtNDQ4MC1hM2E1LTA2MGVlOTI2MjZmMCJ9&embedImagePlaceholder=true&pageName=921abace809859bddd06)<br>
 [Data Source](https://www.spc.noaa.gov/wcm/#data)
-<br>
+<br></br>
+
 ### Skills Used
 <ul>
 <li>Data extraction and loading (Python)</li>
