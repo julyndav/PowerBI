@@ -101,13 +101,16 @@ Regions or states that are not typically exposed to severe weather events—such
 
 #### Second Section:
 <ul>
-<li>Here we can see a time analysis for time of day.</li>
+<li>The chart illustrates the frequency of tornadoes throughout the day, revealing that most occur during the late afternoon and early evening hours.</li>
 <li>Note that not all of the states will experience every level of tornado intensity.</li>
 <li>Feel free to return to the main page and explore other states.</li>
 </ul>
 <p></p>
 
 ![MainDB](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Images/StatePg2.png)
+<ul>
+<li>DAX was used to extract 'hour' from tornado start times into a new column and used for the time analysis graphic.</li>
+</ul>
 <br></br>
 
 #### Third Section:
