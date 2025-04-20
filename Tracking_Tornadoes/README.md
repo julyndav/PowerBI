@@ -115,11 +115,14 @@ Regions or states that are not typically exposed to severe weather events—such
 
 #### Third Section:
 <ul>
-
+<li>The final section of the state specific analysis deals with distance and effects of tornadoes.</li>
+<li>DAX was used to calculate the miles a particular tornado has traveled using the starting and ending longitudes and latitudes.</li>
+<li>Depending on the duration of the tornado, it can rise and fall multiple times depending on it's strength. Each instance of it </li>
 </ul>
 <p></p>
 
 ![MainDB](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Images/StatePg3.png)
+<li>Tornadoes can vary in strength and duration as they move, sometimes touching down, lifting, and then touching down again. Because of this behavior, a single tornado event can cover significant distances, even if it isn’t continuous. Additionally, multiple tornadoes may occur on the same day, often as part of a larger outbreak. The distances shown represent the total ground path covered across the state on that day, based on recorded start and end coordinates of each event.</li>
 <br></br>
 
 
@@ -131,7 +134,7 @@ Regions or states that are not typically exposed to severe weather events—such
 
 ### Revenue Recommendations:
 <b> ...</b>
-info info info
+this analysis could be usefull for local or state officals to advocate more preventive and safety measures such as public storm shelters, warning sirens
 
 1) 
 <br></br>
