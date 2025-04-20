@@ -54,9 +54,9 @@ Create an Infographic style PowerBI dashboard to inform the viewer of the danger
 
 #### First Section:
 <ul>
-<li>Displays general ticket information: quantity, purchase methods, monthly ticket totals, and average price.</li>
-<li>Highlights the number of stations covered, with a focus on the top 3 departure and arrival stations, their on-time performance, and revenue.</li>
-<li>KPIs and visuals to provide a summary of other key metrics.</li>
+<li>Displays overal tornado statistics.</li>
+<li>Other than the map graphic, clicking a graphic detail will not filter the data. That functionality was removed.</li>
+<li>The map graphic incorporates 'Drill through' options. Hovering over a state, will all the viewer to filter the data to that state.</li>
 </ul>
 <p></p>
 
@@ -77,15 +77,11 @@ Create an Infographic style PowerBI dashboard to inform the viewer of the danger
 
 
 ### Overview Insights: 
-<b>Online Sales:</b>
-With 59% of purchases done online, there is a clear trend towards digital transactions. Contactless and debit card usage could be from in station purchases. 
+<b>EF Scale Magnitude:</b>
+Less than 0.1% of all recorded tornadoes reach EF5, the highest and most destructive rating on the Enhanced Fujita Scale. Out of the <b>28K</b> reported tornadoes, only <b>9</b> were EF5 level. Tornadoes of this magnitude are extremely rare but incredibly devastating, capable of leveling entire towns and stripping the landscape bare. The sheer force of an EF5 tornado includes estimated wind speeds exceeding 200 miles per hour, strong enough to tear asphalt from roads and hurl vehicles like projectiles. Such intense storms require an exceptionally rare combination of atmospheric conditions—strong wind shear, extreme instability, and ample moisture—making them far less common than lower-rated tornadoes 
 
-<b>Utilization of Discount Railcard:</b>
-Despite the discount railcard availability, 66% of passengers do not use it. Identifying reasons for low adoption (e.g., awareness, perceived value, eligibility) and implementing targeted marketing or adjustments could boost usage, increasing ticket sales and revenue.
-
-<b>Efficiency Based on Punctuality:</b>
-Focusing on maintaining or improving punctuality for the top arrival stations (average 82% on-time) and departure stations (average 89% on-time) can boost customer satisfaction, repeat business, and operational efficiency. Addressing factors for underperforming stations can optimize operations and reduce associated costs.
-
+<b>Property Damage:</b>
+Regions or states that are not typically exposed to severe weather events—such as tornadoes—often experience high levels of property damage when such events do occur. This could be due to a combination of factors, including infrastructure that is not built to withstand extreme weather, a general lack of preparedness among residents and local authorities, and limited early warning systems. In contrast to areas that regularly face such hazards and have developed building codes and emergency protocols, these less-experienced regions may suffer more damage from similar storms.
 <br></br>
 
 ## State Specific Dashboard
