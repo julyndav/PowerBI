@@ -90,9 +90,8 @@ Regions or states that are not typically exposed to severe weather events—such
 
 #### First Section:
 <ul>
-<li>Displays general ticket information: quantity, purchase methods, monthly ticket totals, and average price.</li>
-<li>Highlights the number of stations covered, with a focus on the top 3 departure and arrival stations, their on-time performance, and revenue.</li>
-<li>KPIs and visuals to provide a summary of other key metrics.</li>
+<li>.</li>
+
 </ul>
 <p></p>
 
@@ -101,9 +100,8 @@ Regions or states that are not typically exposed to severe weather events—such
 
 #### Second Section:
 <ul>
-<li>Displays general ticket information: quantity, purchase methods, monthly ticket totals, and average price.</li>
-<li>Highlights the number of stations covered, with a focus on the top 3 departure and arrival stations, their on-time performance, and revenue.</li>
-<li>KPIs and visuals to provide a summary of other key metrics.</li>
+<li></li>
+
 </ul>
 <p></p>
 
@@ -112,9 +110,8 @@ Regions or states that are not typically exposed to severe weather events—such
 
 #### Third Section:
 <ul>
-<li>Displays general ticket information: quantity, purchase methods, monthly ticket totals, and average price.</li>
-<li>Highlights the number of stations covered, with a focus on the top 3 departure and arrival stations, their on-time performance, and revenue.</li>
-<li>KPIs and visuals to provide a summary of other key metrics.</li>
+<li></li>
+
 </ul>
 <p></p>
 
@@ -129,21 +126,10 @@ Regions or states that are not typically exposed to severe weather events—such
 
 
 ### Revenue Recommendations:
-<b> Improve Technical and Staffing Reliability:</b>
-Implement a rigorous maintenance schedule to minimize technical issues. Conduct regular training sessions and improve the staffing process to ensure that adequate staff is available, especially during peak times. Invest in better monitoring and early detection systems to quickly address technical problems before they impact service.
+<b> ...</b>
+info info info
 
-<b> Refund/Delays:</b>
-Enhance the communication system to inform passengers promptly about weather-related delays and offer alternative options to reduce the impact.
-Consider offering flexible rescheduling options rather than refunds to retain revenue.
-
-<b> Ticket Recommendations:</b>
-1) Improve the user experience on the online ticketing platform to make it more intuitive and faster.
-2) Provide a seamless mobile experience to cater to on-the-go customers.
-3) Offer exclusive online discounts or loyalty points to encourage more online purchases.
-4) Offer early bird discounts for passengers who book tickets well in advance.
-5) Provide additional benefits for advance purchasers, such as seat selection or free Wi-Fi.
-6) Railcard: Reevaluate the discount railcard program to understand why it is underutilized. Simplify the process of acquiring and using the discount railcard.
-   Promote the benefits of the discount railcard through targeted marketing campaigns.
+1) 
 <br></br>
 <br></br>
 
