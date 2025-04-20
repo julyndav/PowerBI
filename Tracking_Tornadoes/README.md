@@ -74,9 +74,7 @@ Create an Infographic style PowerBI dashboard to inform the viewer of the danger
 ![MainDB_2ndPg](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Images/Main_Dashboard_2.png)
 
 
-
-
-### Overview Insights: 
+### Main Page Insights: 
 <b>EF Scale Magnitude:</b>
 Less than 0.1% of all recorded tornadoes reach EF5, the highest and most destructive rating on the Enhanced Fujita Scale. Out of the <b>28K</b> reported tornadoes, only <b>9</b> were EF5 level. Tornadoes of this magnitude are extremely rare but incredibly devastating, capable of leveling entire towns and stripping the landscape bare. The sheer force of an EF5 tornado includes estimated wind speeds exceeding 200 miles per hour, strong enough to tear asphalt from roads and hurl vehicles like projectiles. Such intense storms require an exceptionally rare combination of atmospheric conditions—strong wind shear, extreme instability, and ample moisture—making them far less common than lower-rated tornadoes 
 
