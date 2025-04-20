@@ -92,7 +92,6 @@ Regions or states that are not typically exposed to severe weather events—such
 <li>All information on the page pertains to the selected state.</li>
 <li>Viewer can return to the Main pg by selecting the back arrow at the top of the dashboard.</li>  
 </ul>
-<p></p>
 
 ![MainDB](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Images/StatePg1.png)
 <br></br>
