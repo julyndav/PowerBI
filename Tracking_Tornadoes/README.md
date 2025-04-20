@@ -81,7 +81,10 @@ Create an Infographic style PowerBI dashboard to inform the viewer of the danger
 Less than 0.1% of all recorded tornadoes reach EF5, the highest and most destructive rating on the Enhanced Fujita Scale. Out of the <b>28K</b> reported tornadoes, only <b>9</b> were EF5 level. Tornadoes of this magnitude are extremely rare but incredibly devastating, capable of leveling entire towns and stripping the landscape bare. The sheer force of an EF5 tornado includes estimated wind speeds exceeding 200 miles per hour, strong enough to tear asphalt from roads and hurl vehicles like projectiles. Such intense storms require an exceptionally rare combination of atmospheric conditions—strong wind shear, extreme instability, and ample moisture—making them far less common than lower-rated tornadoes 
 
 <b>Property Damage:</b>
-Regions or states that are not typically exposed to severe weather events—such as tornadoes—often experience high levels of property damage when such events do occur. This could be due to a combination of factors, including infrastructure that is not built to withstand extreme weather, a general lack of preparedness among residents and local authorities, and limited early warning systems. In contrast to areas that regularly face such hazards and have developed building codes and emergency protocols, these less-experienced regions may suffer more damage from similar storms.
+Regions or states that are not typically exposed to severe weather events—such as tornadoes—often experience high levels of property damage when such events do occur. This could be due to a combination of factors, including infrastructure that is not built to withstand extreme weather, a general lack of preparedness among residents and local authorities, and limited early warning systems. From the below graphic, we can see how destructive the various intensities can be regardless of how often they occur.
+<p>
+   
+</p>
 <br></br>
 
 ## State Specific Dashboard
