@@ -14,13 +14,8 @@ A collection of Power BI dashboards and reports developed for data analysis and 
 | Project | Description |
 | --- | --- | 
 | [NYC Dog Bites](https://github.com/julyndav/PowerBI/tree/main/NYC_Dog_Bite_Analysis) | Exploratory analysis of dog bite data for NYC's main boroughs |
-| Tracking Tornadoes | Trends, Severity and Impact |
+| [Tracking Tornadoes](https://github.com/julyndav/PowerBI/tree/main/Tracking_Tornadoes) | Trends, Severity and Impact |
 | [UK National Rail](https://github.com/julyndav/PowerBI/tree/main/UK_National_Rail) | Maven Analytics Data Challenge |
 
 
-<br></br>
-## Project Notes:
-<ul>
-<li> UK National Rail was a data challenges conducted by Maven Analytics.</li>
-<li>The other projects were personal development projects to imporove PowerBI, DAX and Power Query skills.</li>
-</ul>
+
