@@ -126,18 +126,11 @@ Regions or states that are not typically exposed to severe weather events—such
 <br></br>
 
 
+### Overall Insights:
+This analysis can be pivital for local and state leaders to make better decisions about how to keep their communities safe during tornado season. By understanding when and where tornadoes are most likely to happen, communities can plan ahead—like building public storm shelters, setting up more warning sirens, and initiating learning programs to teach people what to do when severe weather hits.
+
+Tornadoes can form quickly and don’t always give much warning, so it’s important to take all severe weather alerts seriously. Even if the skies don’t look bad yet, things can change fast. Being prepared—both at the community level and as individuals—can save lives and reduce damage. The more we know and plan ahead, the better off we’ll be when the next storm comes through. 
 
 
-
-
-
-
-### Revenue Recommendations:
-<b> ...</b>
-this analysis could be usefull for local or state officals to advocate more preventive and safety measures such as public storm shelters, warning sirens
-
-1) 
-<br></br>
-<br></br>
 
 
