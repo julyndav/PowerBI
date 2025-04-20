@@ -90,8 +90,9 @@ Regions or states that are not typically exposed to severe weather events—such
 
 #### First Section:
 <ul>
-<li>.</li>
-
+<li>From the Main Page, hovering over a state will allow the user to 'Drill through' and select 'Expanded_State_information'.</li>
+<li>All information on the page pertains to the selected state.</li>
+<li>Viewer can return to the Main pg by selecting the back arrow at the top of the dashboard.</li>  
 </ul>
 <p></p>
 
