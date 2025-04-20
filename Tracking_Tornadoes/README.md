@@ -108,7 +108,8 @@ Regions or states that are not typically exposed to severe weather events—such
 <ul>
 <li>DAX was used to extract 'hour' from tornado start times into a new column and used for the time analysis graphic.</li>
 </ul>
-<br></br>
+<br>
+
 
 #### Third Section:
 <ul>
