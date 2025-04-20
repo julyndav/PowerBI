@@ -111,8 +111,9 @@ Regions or states that are not typically exposed to severe weather events—such
 
 #### Third Section:
 <ul>
-<li></li>
-
+<li>Here we can see a time analysis for time of day.</li>
+<li>Note that not all of the states will experience every level of tornado intensity.</li>
+<li>Feel free to return to the main page and explore other states.</li>
 </ul>
 <p></p>
 
