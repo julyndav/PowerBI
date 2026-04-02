@@ -11,57 +11,31 @@ The goal of this analysis is to identify inefficiencies, uncover revenue opportu
 [Presentation Slide Deck](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/UK_National_Rail_SlideDeck.pdf)
 <br></br>
 
-### Skills Demostrated
+## Project Overview
+This dashboard explores:
 <ul>
-<li>Data extraction and loading (Python)</li>
-<li>Data cleaning (Power Query)</li>
-<li>Calculated Columns</li>
-<li>Data Analysis Expression (DAX) Functions</li>
-<li>Dashboard design (PowerPoint)</li>
-<li>Data Visualisation(PowerBI)</li>
+<li>Passenger purchasing behavior and ticket preferences</li>
+<li>Payment methods and digital adoption trends</li>
+<li>Railcard usage and discount impact</li>
+<li>Delay and cancellation drivers</li>
+<li>Route demand and station performance</li>
+<li>Revenue composition and pricing dynamics</li>
 </ul>
 <br></br>
 
-## About this project:
-
-### Challenge Project Rundown
-#### Objective:
-As a BI Developer for National Rail, a company that provides business services to passenger trains operatored in England, Scotland, and Wales, 
-create an exploratory dashboard that will: 
+## Key Insights
 <ul>
-<li>Identify the most popular train routes</li>
-<li>Determine peak travel times</li>
-<li>Analyze revenue from different ticket types & ticket classes</li>
-<li>Diagnose on-time performance and contributing factors</li>
-</ul>
-<br>
+<li>~$627K in unrealized revenue opportunity from low railcard adoption, with an additional $191K in potential customer savings
+$63K–$94K in incremental revenue potential from a 10–15% increase in railcard adoption</li>
+<li>Revenue loss driven by delays and cancellations, with operational inefficiencies impacting profitability</li>
+<li>Strong reliance on Standard Class tickets, indicating high price sensitivity among passengers</li>
+<li>High digital adoption (59% online purchases), creating opportunities for targeted engagement</li>
 
 
-# My Analysis Process:
 
-### Reviewing the Data:
-<ul>
-<li>Reviewed the provided data consisting of two CSV tables: one with working data and another with variable information.</li>
-<li>Loaded the working data into Power BI for initial data cleaning, formatting, and manipulation which was minimal.</li>
-</ul>  
-<p>
-  
-### Processing Data:
-<ul>
-<li>Formatted currency and date columns.</li>
-<li>Reviewed each column’s variables, consolidating the 'Reason for Delay' column to unify various delay reasons.</li>
-<li>Ensured data consistency and accuracy through cleaning and validation processes.</li>
-</ul>
-<p></p>
-  
-### Dashboard Concept:
-<ul>
-<li>Outlined key metrics and potential visuals, dividing the dashboard into four main sections based on the initial requirements.</li>
-<li>Designed the overall aesthetic and layout to ensure a user-friendly interface. The background and icons were designed and exported from PowerPoint.</li>
-</ul>
-<p></p>
 
-<br></br>
+
+
 
 # Dashboard
 ## Overview Page:
