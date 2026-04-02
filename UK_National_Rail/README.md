@@ -1,8 +1,8 @@
-# UK National Rail Analysis
-Comprehensive data analysis using Power Query and Power BI to uncover key rail passenger trends and station metrics. Extracted and processed
-30k+ passenger records from Maven Analytics, focusing on improving data quality and transforming insights into actionable recommendations. 
-Independantly developed an interactive Power BI dashboard to visualize critical metrics including train routes, peak travel times, ticket revenue, 
-station performance, and passenger behavior. Delivered insights and feasibility study recommendations to support potential rail expansion initiatives.
+# Rail Revenue & Operations Analysis
+### How Low Railcard Adoption Could Represent a $627K Revenue Opportunity
+This project analyzes passenger behavior, operational performance, and revenue drivers within a U.K. rail system using Power BI.
+
+The goal of this analysis is to identify inefficiencies, uncover revenue opportunities, and provide data-driven recommendations across marketing, operations, and finance functions.
 <br></br>
 
 ## Table of Contents:
