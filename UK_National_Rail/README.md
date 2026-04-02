@@ -56,4 +56,11 @@ Focusing on maintaining or improving punctuality for the top arrival stations (a
 <br></br>
 
 ## Route Overview
+<ul>
+  <li>Showcases ticket classes, highlights reasons for delay and refunds totals per ticket class.</li>
+  <li>Features an interactive route map and a general timeline to visualize passenger patterns over a 24-hour period.</li>
+  <li>There are separate dashboards for Arrival and Departure information. These are accessed via the buttons on the main route page.</li>
+  </ul>
 
+
+![RouteOverview](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/General_Route_Dashboard_2.png)
