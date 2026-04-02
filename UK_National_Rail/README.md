@@ -21,7 +21,7 @@ This dashboard explores:
 <li>Route demand and station performance</li>
 <li>Revenue composition and pricing dynamics</li>
 </ul>
-<br></br>
+<br>
 
 ## Key Insights
 <ul>
@@ -30,12 +30,7 @@ $63K–$94K in incremental revenue potential from a 10–15% increase in railcar
 <li>Revenue loss driven by delays and cancellations, with operational inefficiencies impacting profitability</li>
 <li>Strong reliance on Standard Class tickets, indicating high price sensitivity among passengers</li>
 <li>High digital adoption (59% online purchases), creating opportunities for targeted engagement</li>
-
-
-
-
-
-
+</ul>
 
 # Dashboard
 ## Overview Page:
