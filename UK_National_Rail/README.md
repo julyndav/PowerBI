@@ -1,14 +1,24 @@
 # Rail Revenue & Operations Analysis
-### How Low Railcard Adoption Could Represent a $627K Revenue Opportunity
+### Identifying a $627K Revenue Opportunity from Railcard Adoption
 This project analyzes passenger behavior, operational performance, and revenue drivers within a U.K. rail system using Power BI.
 
-The goal of this analysis is to identify inefficiencies, uncover revenue opportunities, and provide data-driven recommendations across marketing, operations, and finance functions.
+The objective is to identify inefficiencies, uncover revenue opportunities, and deliver data-driven insights to support Marketing, Operations, and Finance teams.
 <br></br>
 
 ## Table of Contents:
 [Interactive PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmY5NTliYzYtNWZjMS00OGVkLTk2NDctZWFhNmNlYTMyZjQ2IiwidCI6ImI4OTBlNWMxLTg4YzQtNDQ4MC1hM2E1LTA2MGVlOTI2MjZmMCJ9&embedImagePlaceholder=true&pageName=921abace809859bddd06)<br>
 [Data Source](https://mavenanalytics.io/challenges/maven-rail-challenge/08941141-d23f-4cc9-93a3-4c25ed06e1c3)<br>
 [Presentation Slide Deck](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/UK_National_Rail_SlideDeck.pdf)
+<br></br>
+
+## Highlights
+<ul>
+<li>Identifying a $627K Revenue Opportunity from Railcard Adoption</li>
+<li>Estimated $63K–$94K in incremental revenue from a 10–15% increase in adoption</li>
+<li>Quantified $191K in potential customer savings, highlighting value perception gaps</li>
+<li>Analyzed delay and cancellation drivers impacting revenue and operational performance</li>
+<li>Evaluated passenger behavior, ticket preferences, and digital purchasing trends</li>
+</ul>
 <br></br>
 
 ## Project Overview
@@ -25,13 +35,17 @@ This dashboard explores:
 
 ## Key Insights
 <ul>
-<li>~$627K in unrealized revenue opportunity from low railcard adoption, with an additional $191K in potential customer savings
-$63K–$94K in incremental revenue potential from a 10–15% increase in railcard adoption</li>
-<li>Revenue loss driven by delays and cancellations, with operational inefficiencies impacting profitability</li>
-<li>Strong reliance on Standard Class tickets, indicating high price sensitivity among passengers</li>
-<li>High digital adoption (59% online purchases), creating opportunities for targeted engagement</li>
-</ul>
+<li>$627K in unrealized revenue opportunity from low railcard adoption</li>
+<li>$63K–$94K incremental revenue potential from a 10–15% increase in adoption</li>
+<li>$191K in potential customer savings, indicating low discount utilization</li>
+<li>Revenue loss driven by delays and cancellations, impacting profitability</li>
+<li>Strong reliance on Standard Class tickets, highlighting price sensitivity</li>
+<li>High digital adoption (59% online purchases), enabling targeted engagement</li>
+<br>
 
+
+
+  
 # Dashboard
 ## Overview Page:
 <ul>
@@ -44,37 +58,48 @@ $63K–$94K in incremental revenue potential from a 10–15% increase in railcar
 ![MainDB](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Overview_Dashboard_1.png)
 
 ### Overview Insights: 
-<b>Online Sales:</b>
-With 59% of purchases done online, there is a clear trend towards digital transactions. Contactless and debit card usage could be from in station purchases. 
+<b>Digital Adoption:</b>
+59% of purchases are made online, indicating a strong shift toward digital transactions
 
 <b>Utilization of Discount Railcard:</b>
-Despite the discount railcard availability, 66% of passengers do not use it. Identifying reasons for low adoption (e.g., awareness, perceived value, eligibility) and implementing targeted marketing or adjustments could boost usage, increasing ticket sales and revenue.
+66% of passengers do not use a railcard, representing a significant opportunity to increase engagement and revenue
 
-<b>Efficiency Based on Punctuality:</b>
-Focusing on maintaining or improving punctuality for the top arrival stations (average 82% on-time) and departure stations (average 89% on-time) can boost customer satisfaction, repeat business, and operational efficiency. Addressing factors for underperforming stations can optimize operations and reduce associated costs.
-
+<b>Operational Efficiency:</b>
+Top stations maintain high on-time performance (82–89%), supporting customer satisfaction and reliability
 <br></br>
 
 ## Route Overview
-<ul>
-  <li>Showcases delay impact on refund rates.</li>
-  <li>Delay/Cancellations reasons along with how they affect certain stations</li>
-  <li>Peak passenger travel times</li>
-  <li>Options to view Departure and Arrival station information separately</li>
-  </ul>
-
+Highlights delay and cancellation impacts, station performance, and peak travel patterns.
 
 ![RouteOverview](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/General_Route_Dashboard_2.png)
-
+### Route Insights: 
+<ul>
+<li>Delays and cancellations significantly impact refund rates and revenue</li>
+<li>Technical and staffing issues are primary drivers of service disruptions</li>
+<li>Peak travel occurs during morning and evening hours, indicating demand concentration</li>
+</ul>
 <br></br>
 
 ## Revenue Overview
+Analyzes ticket class distribution, refund impact, and revenue trends.
+![RevenueDashboard](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Revenue_Dashboard_3.png)
+
+### Route Insights:
 <ul>
-  <li>Showcases ticket classes, highlights delay and cancellation refund totals.</li>
-  <li>Revenue based on ticket classes and features.</li>
-  <li>Monthly revenue as well as potential revenue from unused promotion</li>
+  <li>Standard Class dominates both ticket volume and revenue, indicating price-sensitive behavior</li>
+  <li>Advance tickets drive a large portion of purchases, reflecting early booking preferences</li>
+  <li>First Class contributes a smaller share of revenue, highlighting limited premium adoption</li>
+  </ul>
+  <br></br>
+
+## Recommendations
+<ul>
+  <li><b>Increase Railcard Adoption:</b> Launch targeted campaigns and incentives to drive usage and unlock revenue opportunities</li>
+  <li><b>Improve Operational Reliability:</b> Address key delay drivers (technical and staffing issues) to reduce disruptions and refunds</li>
+  <li><b>Leverage Digital Channels:</b> Utilize online purchasing trends to deliver personalized promotions and increase engagement</li>
+  <li><b>Optimize Pricing Strategy:</b> Align ticket pricing and upsell strategies with demand patterns and customer behavior</li>
   </ul>
   
-![RevenueDashboard](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Revenue_Dashboard_3.png)
+
 
 
