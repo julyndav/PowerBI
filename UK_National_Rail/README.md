@@ -35,8 +35,8 @@ $63K–$94K in incremental revenue potential from a 10–15% increase in railcar
 # Dashboard
 ## Overview Page:
 <ul>
-<li>Displays general ticket information: quantity, purchase methods, monthly ticket totals, and average price.</li>
-<li>Highlights the number of stations covered, with a focus on the top 3 departure and arrival stations, their on-time performance, and revenue.</li>
+<li>Displays general ticket information: quantity, purchase methods, ticket totals, and average pricing.</li>
+<li>Highlights the top 3 departure and arrival stations, their on-time performance, and revenue.</li>
 <li>KPIs and visuals to provide a summary of other key metrics.</li>
 </ul>
 <p></p>
@@ -57,9 +57,10 @@ Focusing on maintaining or improving punctuality for the top arrival stations (a
 
 ## Route Overview
 <ul>
-  <li>Showcases ticket classes, highlights reasons for delay and refunds totals per ticket class.</li>
-  <li>Features an interactive route map and a general timeline to visualize passenger patterns over a 24-hour period.</li>
-  <li>There are separate dashboards for Arrival and Departure information. These are accessed via the buttons on the main route page.</li>
+  <li>Showcases delay impact on refund rates.</li>
+  <li>Delay/Cancellations reasons along with how they affect certain stations</li>
+  <li>Peak passenger travel times</li>
+  <li>Options to view Departure and Arrival station information separately</li>
   </ul>
 
 
@@ -68,5 +69,12 @@ Focusing on maintaining or improving punctuality for the top arrival stations (a
 <br></br>
 
 ## Revenue Overview
+<ul>
+  <li>Showcases ticket classes, highlights delay and cancellation refund totals.</li>
+  <li>Revenue based on ticket classes and features.</li>
+  <li>Monthly revenue as well as potential revenue from unused promotion</li>
+  </ul>
+  
+![RevenueDashboard](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Revenue_Dashboard_3.png)
 
 
