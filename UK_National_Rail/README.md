@@ -7,7 +7,8 @@ The goal of this analysis is to identify inefficiencies, uncover revenue opportu
 
 ## Table of Contents:
 [Interactive PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmY5NTliYzYtNWZjMS00OGVkLTk2NDctZWFhNmNlYTMyZjQ2IiwidCI6ImI4OTBlNWMxLTg4YzQtNDQ4MC1hM2E1LTA2MGVlOTI2MjZmMCJ9&embedImagePlaceholder=true&pageName=921abace809859bddd06)<br>
-[Data Source](https://mavenanalytics.io/challenges/maven-rail-challenge/08941141-d23f-4cc9-93a3-4c25ed06e1c3)
+[Data Source](https://mavenanalytics.io/challenges/maven-rail-challenge/08941141-d23f-4cc9-93a3-4c25ed06e1c3)<br>
+[Presentation Slide Deck](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/UK_National_Rail_SlideDeck.pdf)
 <br></br>
 
 ### Skills Demostrated
