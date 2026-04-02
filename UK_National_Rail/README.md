@@ -19,7 +19,6 @@ The objective is to identify inefficiencies, uncover revenue opportunities, and 
 <li>Analyzed delay and cancellation drivers impacting revenue and operational performance</li>
 <li>Evaluated passenger behavior, ticket preferences, and digital purchasing trends</li>
 </ul>
-<br></br>
 
 ## Project Overview
 This dashboard explores:
@@ -31,7 +30,7 @@ This dashboard explores:
 <li>Route demand and station performance</li>
 <li>Revenue composition and pricing dynamics</li>
 </ul>
-<br>
+
 
 ## Key Insights
 <ul>
@@ -41,31 +40,25 @@ This dashboard explores:
 <li>Revenue loss driven by delays and cancellations, impacting profitability</li>
 <li>Strong reliance on Standard Class tickets, highlighting price sensitivity</li>
 <li>High digital adoption (59% online purchases), enabling targeted engagement</li>
+</ul>
 <br>
-
-
 
   
 # Dashboard
 ## Overview Page:
-<ul>
-<li>Displays general ticket information: quantity, purchase methods, ticket totals, and average pricing.</li>
-<li>Highlights the top 3 departure and arrival stations, their on-time performance, and revenue.</li>
-<li>KPIs and visuals to provide a summary of other key metrics.</li>
-</ul>
-<p></p>
+Displays overall ticket performance, purchasing behavior, and station-level summaries.
 
 ![MainDB](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Overview_Dashboard_1.png)
 
 ### Overview Insights: 
-<b>Digital Adoption:</b>
-59% of purchases are made online, indicating a strong shift toward digital transactions
-
-<b>Utilization of Discount Railcard:</b>
-66% of passengers do not use a railcard, representing a significant opportunity to increase engagement and revenue
-
-<b>Operational Efficiency:</b>
-Top stations maintain high on-time performance (82–89%), supporting customer satisfaction and reliability
+<ul>
+<li><b>Digital Adoption:</b>
+59% of purchases are made online, indicating a strong shift toward digital transactions</li>
+<li><b>Utilization of Discount Railcard:</b>
+66% of passengers do not use a railcard, representing a significant opportunity to increase engagement and revenue</li>
+<li><b>Operational Efficiency:</b>
+Top stations maintain high on-time performance (82–89%), supporting customer satisfaction and reliability</li>
+</ul>
 <br></br>
 
 ## Route Overview
