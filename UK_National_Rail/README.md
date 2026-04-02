@@ -41,7 +41,7 @@ $63K–$94K in incremental revenue potential from a 10–15% increase in railcar
 </ul>
 <p></p>
 
-![MainDB](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/UKRail%20Img1.png)
+![MainDB](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Overview_Dashboard_1.png)
 
 ### Overview Insights: 
 <b>Online Sales:</b>
