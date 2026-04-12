@@ -48,7 +48,7 @@ This dashboard explores:
 ## Overview Page:
 Displays overall ticket performance, purchasing behavior, and station-level summaries.
 
-![MainDB](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Main%Image.png)
+![MainDB](https://github.com/julyndav/PowerBI/blob/main/UK_National_Rail/Images/Main%20Image.png)
 
 ### Overview Insights: 
 <ul>
