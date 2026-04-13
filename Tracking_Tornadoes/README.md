@@ -60,7 +60,7 @@ Create an Infographic style PowerBI dashboard to inform the viewer of the danger
 </ul>
 <p></p>
 
-![MainDB](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Images/Dashboard.png)
+![MainDB](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Dashboard_Images/Dashboard.png)
 <br></br>
 
 #### Second Section:
@@ -71,7 +71,7 @@ Create an Infographic style PowerBI dashboard to inform the viewer of the danger
 </ul>
 <p></p>
 
-![MainDB_2ndPg](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Images/Main_Dashboard_2.png)
+![MainDB_2ndPg](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Dashboard_Images/Main_Dashboard_2.png)
 
 
 ### Main Page Insights: 
@@ -80,7 +80,7 @@ Less than 0.1% of all recorded tornadoes reach EF5, the highest and most destruc
 
 <b>Property Damage:</b>
 Regions or states that are not typically exposed to severe weather events—such as tornadoes—often experience high levels of property damage when such events do occur. This could be due to a combination of factors, including infrastructure that is not built to withstand extreme weather, a general lack of preparedness among residents and local authorities, and limited early warning systems. From the below graphic, we can see how destructive the various intensities can be regardless of how often they occur.<p>
-![Damage](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Images/PropertyDamage.png)
+![Damage](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Dashboard_Images/PropertyDamage.png)
 </p>
 <br></br>
 
@@ -93,7 +93,7 @@ Regions or states that are not typically exposed to severe weather events—such
 <li>Viewer can return to the Main pg by selecting the back arrow at the top of the dashboard.</li>  
 </ul>
 
-![MainDB](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Images/StatePg1.png)
+![MainDB](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Dashboard_Images/StatePg1.png)
 <br></br>
 
 #### Second Section:
@@ -104,7 +104,7 @@ Regions or states that are not typically exposed to severe weather events—such
 </ul>
 <p></p>
 
-![MainDB](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Images/StatePg2.png)
+![MainDB](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Dashboard_Images/StatePg2.png)
 <ul>
 <li>DAX was used to extract 'hour' from tornado start times into a new column and used for the time analysis graphic.</li>
 </ul>
@@ -119,7 +119,7 @@ Regions or states that are not typically exposed to severe weather events—such
 </ul>
 <p></p>
 
-![MainDB](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Images/StatePg3.png)
+![MainDB](https://github.com/julyndav/PowerBI/blob/main/Tracking_Tornadoes/Dashboard_Images/StatePg3.png)
 <li>Tornadoes can vary in strength and duration as they move, sometimes touching down, lifting, and then touching down again. Because of this behavior, a single tornado event can cover significant distances, even if it isn’t continuous. Additionally, multiple tornadoes may occur on the same day, often as part of a larger outbreak. The distances shown represent the total ground path covered across the state on that day, based on recorded start and end coordinates of each event.</li>
 <br></br>
 
